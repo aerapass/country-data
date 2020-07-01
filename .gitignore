@@ -1,3 +1,5 @@
-.idea
-node_modules
+node_modules/
+lib/
+coverage/
+.DS_Store
 npm-debug.log
