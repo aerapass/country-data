@@ -1,25 +1,57 @@
 /* eslint-disable @typescript-eslint/no-var-requires */
 import * as _ from 'underscore'
-import * as lookup from './lookup'
+import { init } from './lookup'
 
-const continents = require('../data/continents')
-const regions = require('../data/regions')
-const countriesAll = require('../data/countries.json')
-const currenciesAll = require('../data/currencies.json')
-const languagesAll = require('../data/languages.json')
+export const continents = require('../data/continents')
+export const regions = require('../data/regions')
+export const countriesAll = require('../data/countries.json')
+export const currenciesAll = require('../data/currencies.json')
+export const languagesAll = require('../data/languages.json')
 
 const getSymbol = require('currency-symbol-map')
 
-exports.continents = continents
-exports.regions = regions
+export interface Currency {
+    code: string
+    decimals: number
+    name: string
+    number: string
+    symbol: string
+}
 
-exports.countries = {
+export interface Country {
+    alpha2: string
+    alpha3: string
+    countryCallingCodes: string[]
+    currencies: string[]
+    ioc: string
+    languages: string
+    name: string
+    status: 'assigned' | 'reserved' | 'user assigned' | 'deleted'
+    numeric: string
+}
+
+export interface Language {
+    alpha2: string
+    alpha3: string
+    bibliographic: string
+    name: string
+}
+
+export interface CountryMap {
+    [countryCode: string]: Country
+}
+
+export const countries: CountryMap & { all: Country[] } = {
     all: countriesAll,
 }
 
-_.each(countriesAll, function (country) {
+export const currencies: { all: Currency[] } = {
+    all: currenciesAll,
+}
+
+_.each(countriesAll, function (country: Country) {
     // prefer assigned country codes over inactive ones
-    const exportedAlpha2 = exports.countries[country.alpha2]
+    const exportedAlpha2 = countries[country.alpha2]
     if (!exportedAlpha2 || exportedAlpha2.status === 'deleted') {
         exports.countries[country.alpha2] = country
     }
@@ -30,11 +62,7 @@ _.each(countriesAll, function (country) {
     }
 })
 
-exports.currencies = {
-    all: currenciesAll,
-}
-
-_.each(currenciesAll, function (currency) {
+_.each(currenciesAll, function (currency: Currency) {
     //If the symbol isn't available, default to the currency code
     let symbol = getSymbol(currency.code)
     if (symbol == '?') {
@@ -45,20 +73,20 @@ _.each(currenciesAll, function (currency) {
     exports.currencies[currency.code] = currency
 })
 
-exports.languages = {
+export const languages = {
     all: languagesAll,
 }
 
 // Note that for the languages there are several entries with the same alpha3 -
 // eg Dutch and Flemish. Not sure how to best deal with that - here whichever
 // comes last wins.
-_.each(languagesAll, function (language) {
+_.each(languagesAll, function (language: Language) {
     exports.languages[language.alpha2] = language
     exports.languages[language.bibliographic] = language
     exports.languages[language.alpha3] = language
 })
 
-exports.lookup = lookup({
+export const lookup = init({
     countries: countriesAll,
     currencies: currenciesAll,
     languages: languagesAll,
@@ -68,7 +96,7 @@ const callingCountries = { all: [] }
 
 const callingCodesAll = _.reduce(
     countriesAll,
-    function (codes, country) {
+    function (codes, country: Country) {
         if (country.countryCallingCodes && country.countryCallingCodes.length) {
             callingCountries.all.push(country)
 
@@ -85,6 +113,10 @@ const callingCodesAll = _.reduce(
     },
     []
 )
+
+export const callingCodes = {
+    all: callingCodesAll,
+}
 
 delete callingCountries[''] // remove empty alpha3s
 exports.callingCountries = callingCountries
@@ -115,7 +147,3 @@ callingCodesAll.sort(function (a, b) {
         }
     }
 })
-
-exports.callingCodes = {
-    all: callingCodesAll,
-}
