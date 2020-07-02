@@ -49,7 +49,7 @@ export const currencies: { all: Currency[] } = {
     all: currenciesAll,
 }
 
-_.each(countriesAll, function (country: Country) {
+_.each(countriesAll, (country: Country) => {
     // prefer assigned country codes over inactive ones
     const exportedAlpha2 = countries[country.alpha2]
     if (!exportedAlpha2 || exportedAlpha2.status === 'deleted') {
@@ -62,7 +62,7 @@ _.each(countriesAll, function (country: Country) {
     }
 })
 
-_.each(currenciesAll, function (currency: Currency) {
+_.each(currenciesAll, (currency: Currency) => {
     //If the symbol isn't available, default to the currency code
     let symbol = getSymbol(currency.code)
     if (symbol == '?') {
@@ -80,7 +80,7 @@ export const languages = {
 // Note that for the languages there are several entries with the same alpha3 -
 // eg Dutch and Flemish. Not sure how to best deal with that - here whichever
 // comes last wins.
-_.each(languagesAll, function (language: Language) {
+_.each(languagesAll, (language: Language) => {
     languages[language.alpha2] = language
     languages[language.bibliographic] = language
     languages[language.alpha3] = language
@@ -96,14 +96,14 @@ let callingCountries = { all: [] }
 
 const callingCodesAll = _.reduce(
     countriesAll,
-    function (codes, country: Country) {
+    (codes, country: Country) => {
         if (country.countryCallingCodes && country.countryCallingCodes.length) {
             callingCountries.all.push(country)
 
             callingCountries[country.alpha2] = country
             callingCountries[country.alpha3] = country
 
-            _.each(country.countryCallingCodes, function (code) {
+            _.each(country.countryCallingCodes, (code) => {
                 if (codes.indexOf(code) == -1) {
                     codes.push(code)
                 }
@@ -121,8 +121,8 @@ export const callingCodes = {
 delete callingCountries[''] // remove empty alpha3s
 callingCountries = callingCountries
 
-callingCodesAll.sort(function (a, b) {
-    const parse = function (str) {
+callingCodesAll.sort((a, b) => {
+    const parse = (str) => {
         return parseInt(str)
     }
     const splitA = _.map(a.split(' '), parse)

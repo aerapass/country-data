@@ -1,32 +1,30 @@
-'use strict'
-
 import * as _ from 'underscore'
 import { regions } from './regions.js'
 
 export interface Continent {
     name: string
     regions: string[]
-    countries: []
+    countries: any[]
 }
 
 export interface Continents {
-    asia: Continent | {}
-    africa: Continent | {}
-    northAmerica: Continent | {}
-    southAmerica: Continent | {}
-    antartica: Continent | {}
-    europe: Continent | {}
-    oceania: Continent | {}
+    asia: Continent
+    africa: Continent
+    northAmerica: Continent
+    southAmerica: Continent
+    antartica: Continent
+    europe: Continent
+    oceania: Continent
 }
 
 export const continents: Continents = {
-    asia: {},
-    africa: {},
-    northAmerica: {},
-    southAmerica: {},
-    antartica: {},
-    europe: {},
-    oceania: {},
+    asia: {} as any,
+    africa: {} as any,
+    northAmerica: {} as any,
+    southAmerica: {} as any,
+    antartica: {} as any,
+    europe: {} as any,
+    oceania: {} as any,
 }
 
 continents.asia = {

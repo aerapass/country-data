@@ -1,5 +1,3 @@
-'use strict'
-
 // Take the csv and convert to json and tidy it up so that it is consistent.
 
 import path from 'path'
@@ -15,7 +13,7 @@ const input = fs.createReadStream(csvFile)
 
 const parser = csv.parse({ columns: true })
 
-parser.on('readable', function () {
+parser.on('readable', () => {
     let record = null
     while ((record = parser.read())) {
         // convert decimals to and number
@@ -24,9 +22,9 @@ parser.on('readable', function () {
     }
 })
 
-parser.on('finish', function () {
+parser.on('finish', () => {
     // sort by code
-    output = _.sortBy(output, function (i) {
+    output = _.sortBy(output, (i) => {
         return i.code
     })
 

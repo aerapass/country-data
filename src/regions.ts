@@ -1,29 +1,58 @@
-'use strict'
+export interface Region {
+    name: string
+    countries: string[]
+}
 
-export const regions: any = {
-    centralAsia: {},
-    southernAsia: {},
-    southeastAsia: {},
-    eastAsia: {},
-    westernAsia: {},
-    centralAfrica: {},
-    northAfrica: {},
-    southernAfrica: {},
-    eastAfrica: {},
-    westAfrica: {},
-    centralAmerica: {},
-    northernAmerica: {},
-    caribbean: {},
-    southAmerica: {},
-    antartica: {},
-    northernEurope: {},
-    southernEurope: {},
-    easternEurope: {},
-    westernEurope: {},
-    australia: {},
-    melanesia: {},
-    micronesia: {},
-    polynesia: {},
+export interface Regions {
+    centralAsia: Region
+    southernAsia: Region
+    southeastAsia: Region
+    eastAsia: Region
+    westernAsia: Region
+    centralAfrica: Region
+    northAfrica: Region
+    southernAfrica: Region
+    eastAfrica: Region
+    westAfrica: Region
+    centralAmerica: Region
+    northernAmerica: Region
+    caribbean: Region
+    southAmerica: Region
+    antartica: Region
+    northernEurope: Region
+    southernEurope: Region
+    easternEurope: Region
+    westernEurope: Region
+    australia: Region
+    melanesia: Region
+    micronesia: Region
+    polynesia: Region
+}
+
+export const regions: Regions = {
+    centralAsia: {} as any,
+    southernAsia: {} as any,
+    southeastAsia: {} as any,
+    eastAsia: {} as any,
+    westernAsia: {} as any,
+    centralAfrica: {} as any,
+    northAfrica: {} as any,
+    southernAfrica: {} as any,
+    eastAfrica: {} as any,
+    westAfrica: {} as any,
+    centralAmerica: {} as any,
+    northernAmerica: {} as any,
+    caribbean: {} as any,
+    southAmerica: {} as any,
+    antartica: {} as any,
+    northernEurope: {} as any,
+    southernEurope: {} as any,
+    easternEurope: {} as any,
+    westernEurope: {} as any,
+    australia: {} as any,
+    melanesia: {} as any,
+    micronesia: {} as any,
+    polynesia: {} as any,
 }
 
 regions.centralAsia = {

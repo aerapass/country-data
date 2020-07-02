@@ -1,5 +1,3 @@
-'use strict'
-
 // Take the csv and convert to json and tidy it up so that it is consistent.
 
 import path from 'path'
@@ -12,19 +10,19 @@ let output = []
 const countriesFilename = 'countries.csv'
 const deletedCountriesFilename = 'deleted_countries.csv'
 
-function readFile(filename) {
-    return new Promise(function (resolve) {
+const readFile = (filename) => {
+    return new Promise((resolve) => {
         const csvFile = path.join(__dirname, filename)
         const parser = csv.parse({ columns: true })
 
-        parser.on('readable', function () {
+        parser.on('readable', () => {
             var record = null
             while ((record = parser.read())) {
                 output.push(record)
             }
         })
 
-        parser.on('finish', function () {
+        parser.on('finish', () => {
             resolve(output)
         })
 
@@ -35,19 +33,19 @@ function readFile(filename) {
 const countriesPromise = readFile(countriesFilename)
 const deletedCountriesPromise = readFile(deletedCountriesFilename)
 
-Promise.all([countriesPromise, deletedCountriesPromise]).then(function (results) {
-    output = _.sortBy(output, function (i) {
+Promise.all([countriesPromise, deletedCountriesPromise]).then((results) => {
+    output = _.sortBy(output, (i) => {
         return i.alpha2
     })
 
     // strip out fields that are not ready yet
-    _.each(output, function (country) {
+    _.each(output, (country) => {
         delete country.ccTLD
     })
 
     // change the appropriate fields to be an array
-    _.each(['currencies', 'countryCallingCodes', 'languages'], function (key) {
-        _.each(output, function (country) {
+    _.each(['currencies', 'countryCallingCodes', 'languages'], (key) => {
+        _.each(output, (country) => {
             country[key] = country[key] ? country[key].split(',') : []
         })
     })

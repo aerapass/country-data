@@ -1,5 +1,3 @@
-'use strict'
-
 // Take the csv files and convert them to standard format
 
 import * as _ from 'underscore'
@@ -14,15 +12,15 @@ const input = process.stdin
 
 const parser = csv.parse({ columns: true })
 
-parser.on('readable', function () {
+parser.on('readable', () => {
     let record = null
     while ((record = parser.read())) {
         output.push(record)
     }
 })
 
-parser.on('finish', function () {
-    output = _.sortBy(output, function (i) {
+parser.on('finish', () => {
+    output = _.sortBy(output, (i) => {
         return i[firstHeader].toLowerCase()
     })
 
@@ -31,7 +29,7 @@ parser.on('finish', function () {
     const columns = _.flatten([firstHeader, remaining.sort()])
     // console.warn(columns);
 
-    csv.stringify(output, { header: true, columns: columns }, function (err, string) {
+    csv.stringify(output, { header: true, columns: columns }, (err, string) => {
         process.stdout.write(string)
     })
 })

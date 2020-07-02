@@ -1,6 +1,6 @@
 import * as _ from 'underscore'
 
-export function init(o: any): any {
+export const init = (o: any): any => {
     return {
         countries: search.bind(null, o.countries),
         currencies: search.bind(null, o.currencies),
@@ -8,7 +8,7 @@ export function init(o: any): any {
     }
 }
 
-function search(data, query) {
+const search = (data, query) => {
     const q = _.pairs(query)
 
     return data.filter((d) => {
