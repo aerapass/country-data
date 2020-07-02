@@ -53,12 +53,12 @@ _.each(countriesAll, function (country: Country) {
     // prefer assigned country codes over inactive ones
     const exportedAlpha2 = countries[country.alpha2]
     if (!exportedAlpha2 || exportedAlpha2.status === 'deleted') {
-        exports.countries[country.alpha2] = country
+        countries[country.alpha2] = country
     }
 
-    const exportedAlpha3 = exports.countries[country.alpha3]
+    const exportedAlpha3 = countries[country.alpha3]
     if (!exportedAlpha3 || exportedAlpha3.status === 'deleted') {
-        exports.countries[country.alpha3] = country
+        countries[country.alpha3] = country
     }
 })
 
@@ -70,7 +70,7 @@ _.each(currenciesAll, function (currency: Currency) {
     }
 
     currency.symbol = symbol
-    exports.currencies[currency.code] = currency
+    currencies[currency.code] = currency
 })
 
 export const languages = {
@@ -81,9 +81,9 @@ export const languages = {
 // eg Dutch and Flemish. Not sure how to best deal with that - here whichever
 // comes last wins.
 _.each(languagesAll, function (language: Language) {
-    exports.languages[language.alpha2] = language
-    exports.languages[language.bibliographic] = language
-    exports.languages[language.alpha3] = language
+    languages[language.alpha2] = language
+    languages[language.bibliographic] = language
+    languages[language.alpha3] = language
 })
 
 export const lookup = init({
@@ -92,7 +92,7 @@ export const lookup = init({
     languages: languagesAll,
 })
 
-const callingCountries = { all: [] }
+let callingCountries = { all: [] }
 
 const callingCodesAll = _.reduce(
     countriesAll,
@@ -119,7 +119,7 @@ export const callingCodes = {
 }
 
 delete callingCountries[''] // remove empty alpha3s
-exports.callingCountries = callingCountries
+callingCountries = callingCountries
 
 callingCodesAll.sort(function (a, b) {
     const parse = function (str) {
