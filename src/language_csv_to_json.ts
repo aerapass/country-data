@@ -17,7 +17,7 @@ const input = fs.createReadStream(csvFile)
 const parser = csv.parse({ columns: true })
 
 parser.on('readable', function () {
-    var record = null
+    let record = null
     while ((record = parser.read())) {
         output.push(record)
     }

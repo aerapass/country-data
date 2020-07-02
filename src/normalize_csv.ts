@@ -15,7 +15,7 @@ const input = process.stdin
 const parser = csv.parse({ columns: true })
 
 parser.on('readable', function () {
-    var record = null
+    let record = null
     while ((record = parser.read())) {
         output.push(record)
     }
@@ -26,9 +26,9 @@ parser.on('finish', function () {
         return i[firstHeader].toLowerCase()
     })
 
-    var headers = _.keys(output[0])
-    var remaining = _.without(headers, firstHeader)
-    var columns = _.flatten([firstHeader, remaining.sort()])
+    const headers = _.keys(output[0])
+    const remaining = _.without(headers, firstHeader)
+    const columns = _.flatten([firstHeader, remaining.sort()])
     // console.warn(columns);
 
     csv.stringify(output, { header: true, columns: columns }, function (err, string) {

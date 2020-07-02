@@ -14,8 +14,8 @@ const deletedCountriesFilename = 'deleted_countries.csv'
 
 function readFile(filename) {
     return new Promise(function (resolve) {
-        var csvFile = path.join(__dirname, filename)
-        var parser = csv.parse({ columns: true })
+        const csvFile = path.join(__dirname, filename)
+        const parser = csv.parse({ columns: true })
 
         parser.on('readable', function () {
             var record = null
