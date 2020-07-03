@@ -1,290 +1,290 @@
-alpha2,alpha3,countryCallingCodes,currencies,emoji,ioc,languages,name,status,numeric
-AC,,+247,USD,,SHP,eng,Ascension Island,reserved,
-AD,AND,+376,EUR,🇦🇩,AND,cat,Andorra,assigned,020
-AE,ARE,+971,AED,🇦🇪,UAE,ara,United Arab Emirates,assigned,784
-AF,AFG,+93,AFN,🇦🇫,AFG,pus,Afghanistan,assigned,004
-AG,ATG,+1 268,XCD,🇦🇬,ANT,eng,Antigua And Barbuda,assigned,028
-AI,AIA,+1 264,XCD,🇦🇮,,eng,Anguilla,assigned,660
-AI,AFI,,,,,,French Afar and Issas,deleted,660
-AL,ALB,+355,ALL,🇦🇱,ALB,sqi,Albania,assigned,008
-AM,ARM,+374,AMD,🇦🇲,ARM,"hye,rus",Armenia,assigned,051
-AN,ANT,,,,,,Netherlands Antilles,deleted,
-AO,AGO,+244,AOA,🇦🇴,ANG,por,Angola,assigned,024
-AQ,ATA,+672,,🇦🇶,,,Antarctica,assigned,010
-AR,ARG,+54,ARS,🇦🇷,ARG,spa,Argentina,assigned,032
-AS,ASM,+1 684,USD,🇦🇸,ASA,"eng,smo",American Samoa,assigned,016
-AT,AUT,+43,EUR,🇦🇹,AUT,deu,Austria,assigned,040
-AU,AUS,+61,AUD,🇦🇺,AUS,eng,Australia,assigned,036
-AW,ABW,+297,AWG,🇦🇼,ARU,nld,Aruba,assigned,533
-AX,ALA,+358,EUR,🇦🇽,,swe,Åland Islands,assigned,248
-AZ,AZE,+994,AZN,🇦🇿,AZE,aze,Azerbaijan,assigned,031
-BA,BIH,+387,BAM,🇧🇦,BIH,"bos,cre,srp",Bosnia & Herzegovina,assigned,070
-BB,BRB,+1 246,BBD,🇧🇧,BAR,eng,Barbados,assigned,052
-BD,BGD,+880,BDT,🇧🇩,BAN,ben,Bangladesh,assigned,050
-BE,BEL,+32,EUR,🇧🇪,BEL,"nld,fra,deu",Belgium,assigned,056
-BF,BFA,+226,XOF,🇧🇫,BUR,fra,Burkina Faso,assigned,854
-BG,BGR,+359,BGN,🇧🇬,BUL,bul,Bulgaria,assigned,100
-BH,BHR,+973,BHD,🇧🇭,BRN,ara,Bahrain,assigned,048
-BI,BDI,+257,BIF,🇧🇮,BDI,fra,Burundi,assigned,108
-BJ,BEN,+229,XOF,🇧🇯,BEN,fra,Benin,assigned,204
-BL,BLM,+590,EUR,🇧🇱,,fra,Saint Barthélemy,assigned,652
-BM,BMU,+1 441,BMD,🇧🇲,BER,eng,Bermuda,assigned,060
-BN,BRN,+673,BND,🇧🇳,BRU,"msa,eng",Brunei Darussalam,assigned,096
-BO,BOL,+591,"BOB,BOV",🇧🇴,BOL,"spa,aym,que","Bolivia, Plurinational State Of",assigned,068
-BQ,BES,+599,USD,🇧🇶,,nld,"Bonaire, Saint Eustatius And Saba",assigned,535
-BQ,ATB,,,,,,British Antarctic Territory,deleted,535
-BR,BRA,+55,BRL,🇧🇷,BRA,por,Brazil,assigned,076
-BS,BHS,+1 242,BSD,🇧🇸,BAH,eng,Bahamas,assigned,044
-BT,BTN,+975,"INR,BTN",🇧🇹,BHU,dzo,Bhutan,assigned,064
-BU,BUR,,,,,,Burma,deleted,
-BV,BVT,,NOK,🇧🇻,,,Bouvet Island,assigned,074
-BW,BWA,+267,BWP,🇧🇼,BOT,"eng,tsn",Botswana,assigned,072
-BY,BLR,+375,BYR,🇧🇾,BLR,"bel,rus",Belarus,assigned,112
-BY,BYS,,,,,,Byelorussian SSR,deleted,112
-BZ,BLZ,+501,BZD,🇧🇿,BIZ,eng,Belize,assigned,084
-CA,CAN,+1,CAD,🇨🇦,CAN,"eng,fra",Canada,assigned,124
-CC,CCK,+61,AUD,🇨🇨,,eng,Cocos (Keeling) Islands,assigned,166
-CD,COD,+243,CDF,🇨🇩,COD,"fra,lin,kon,swa",Democratic Republic Of Congo,assigned,180
-CF,CAF,+236,XAF,🇨🇫,CAF,"fra,sag",Central African Republic,assigned,140
-CG,COG,+242,XAF,🇨🇬,CGO,"fra,lin",Republic Of Congo,assigned,178
-CH,CHE,+41,"CHF,CHE,CHW",🇨🇭,SUI,"deu,fra,ita,roh",Switzerland,assigned,756
-CI,CIV,+225,XOF,🇨🇮,CIV,fra,Côte d'Ivoire,assigned,384
-CK,COK,+682,NZD,🇨🇰,COK,"eng,mri",Cook Islands,assigned,184
-CL,CHL,+56,"CLP,CLF",🇨🇱,CHI,spa,Chile,assigned,152
-CM,CMR,+237,XAF,🇨🇲,CMR,"eng,fra",Cameroon,assigned,120
-CN,CHN,+86,CNY,🇨🇳,CHN,zho,China,assigned,156
-CO,COL,+57,"COP,COU",🇨🇴,COL,spa,Colombia,assigned,170
-CP,,,EUR,,,,Clipperton Island,reserved,
-CR,CRI,+506,CRC,🇨🇷,CRC,spa,Costa Rica,assigned,188
-CS,CSK,,,,,,Czechoslovakia,deleted,
-CS,SCG,,,,,,Serbia and Montenegro,deleted,
-CT,CTE,,,,,,Canton and Enderbury Islands,deleted,
-CU,CUB,+53,"CUP,CUC",🇨🇺,CUB,spa,Cuba,assigned,192
-CV,CPV,+238,CVE,🇨🇻,CPV,por,Cabo Verde,assigned,132
-CW,CUW,+599,ANG,🇨🇼,,nld,Curacao,assigned,531
-CX,CXR,+61,AUD,🇨🇽,,eng,Christmas Island,assigned,162
-CY,CYP,+357,EUR,🇨🇾,CYP,"ell,tur",Cyprus,assigned,196
-CZ,CZE,+420,CZK,🇨🇿,CZE,ces,Czech Republic,assigned,203
-DD,DDR,,,,,,German Democratic Republic,deleted,
-DE,DEU,+49,EUR,🇩🇪,GER,deu,Germany,assigned,276
-DG,,,USD,,,,Diego Garcia,reserved,
-DJ,DJI,+253,DJF,🇩🇯,DJI,"ara,fra",Djibouti,assigned,262
-DK,DNK,+45,DKK,🇩🇰,DEN,dan,Denmark,assigned,208
-DM,DMA,+1 767,XCD,🇩🇲,DMA,eng,Dominica,assigned,212
-DO,DOM,"+1 809,+1 829,+1 849",DOP,🇩🇴,DOM,spa,Dominican Republic,assigned,214
-DY,DHY,,,,,,Dahomey,deleted,
-DZ,DZA,+213,DZD,🇩🇿,ALG,ara,Algeria,assigned,012
-EA,,,EUR,,,,"Ceuta, Mulilla",reserved,
-EC,ECU,+593,USD,🇪🇨,ECU,"spa,que",Ecuador,assigned,218
-EE,EST,+372,EUR,🇪🇪,EST,est,Estonia,assigned,233
-EG,EGY,+20,EGP,🇪🇬,EGY,ara,Egypt,assigned,818
-EH,ESH,+212,MAD,🇪🇭,,,Western Sahara,assigned,732
-ER,ERI,+291,ERN,🇪🇷,ERI,"eng,ara,tir",Eritrea,assigned,232
-ES,ESP,+34,EUR,🇪🇸,ESP,spa,Spain,assigned,724
-ET,ETH,+251,ETB,🇪🇹,ETH,amh,Ethiopia,assigned,231
-EU,,+388,EUR,🇪🇺,,,European Union,reserved,
-FI,FIN,+358,EUR,🇫🇮,FIN,"fin,swe",Finland,assigned,246
-FJ,FJI,+679,FJD,🇫🇯,FIJ,"eng,fij",Fiji,assigned,242
-FK,FLK,+500,FKP,🇫🇰,,eng,Falkland Islands,assigned,238
-FM,FSM,+691,USD,🇫🇲,FSM,eng,"Micronesia, Federated States Of",assigned,583
-FO,FRO,+298,DKK,🇫🇴,FAI,"fao,dan",Faroe Islands,assigned,234
-FQ,ATF,,,,,,French Southern and Antarctic Territories,deleted,
-FR,FRA,+33,EUR,🇫🇷,FRA,fra,France,assigned,250
-FX,,+241,EUR,,,fra,"France, Metropolitan",reserved,
-GA,GAB,+241,XAF,🇬🇦,GAB,fra,Gabon,assigned,266
-GB,GBR,+44,GBP,🇬🇧,GBR,"eng,cor,gle,gla,cym",United Kingdom,assigned,826
-GD,GRD,+473,XCD,🇬🇩,GRN,eng,Grenada,assigned,308
-GE,GEO,+995,GEL,🇬🇪,GEO,kat,Georgia,assigned,268
-GE,GEL,,,,,,Gilbert and Ellice Islands,deleted,268
-GF,GUF,+594,EUR,🇬🇫,,fra,French Guiana,assigned,254
-GG,GGY,+44,GBP,🇬🇬,GCI,fra,Guernsey,assigned,831
-GH,GHA,+233,GHS,🇬🇭,GHA,eng,Ghana,assigned,288
-GI,GIB,+350,GIP,🇬🇮,,eng,Gibraltar,assigned,292
-GL,GRL,+299,DKK,🇬🇱,,kal,Greenland,assigned,304
-GM,GMB,+220,GMD,🇬🇲,GAM,eng,Gambia,assigned,270
-GN,GIN,+224,GNF,🇬🇳,GUI,fra,Guinea,assigned,324
-GP,GLP,+590,EUR,🇬🇵,,fra,Guadeloupe,assigned,312
-GQ,GNQ,+240,XAF,🇬🇶,GEQ,"spa,fra,por",Equatorial Guinea,assigned,226
-GR,GRC,+30,EUR,🇬🇷,GRE,ell,Greece,assigned,300
-GS,SGS,,GBP,🇬🇸,,eng,South Georgia And The South Sandwich Islands,assigned,239
-GT,GTM,+502,GTQ,🇬🇹,GUA,spa,Guatemala,assigned,320
-GU,GUM,+1 671,USD,🇬🇺,GUM,eng,Guam,assigned,316
-GW,GNB,+245,XOF,🇬🇼,GBS,por,Guinea-bissau,assigned,624
-GY,GUY,+592,GYD,🇬🇾,GUY,eng,Guyana,assigned,328
-HK,HKG,+852,HKD,🇭🇰,HKG,"zho,eng",Hong Kong,assigned,344
-HM,HMD,,AUD,🇭🇲,,,Heard Island And McDonald Islands,assigned,334
-HN,HND,+504,HNL,🇭🇳,HON,spa,Honduras,assigned,340
-HR,HRV,+385,HRK,🇭🇷,CRO,hrv,Croatia,assigned,191
-HT,HTI,+509,"HTG,USD",🇭🇹,HAI,"fra,hat",Haiti,assigned,332
-HU,HUN,+36,HUF,🇭🇺,HUN,hun,Hungary,assigned,348
-HV,HVO,,,,,,Upper Volta,deleted,
-IC,,,EUR,,,,Canary Islands,reserved,
-ID,IDN,+62,IDR,🇮🇩,INA,ind,Indonesia,assigned,360
-IE,IRL,+353,EUR,🇮🇪,IRL,"eng,gle",Ireland,assigned,372
-IL,ISR,+972,ILS,🇮🇱,ISR,"heb,ara,eng",Israel,assigned,376
-IM,IMN,+44,GBP,🇮🇲,,"eng,glv",Isle Of Man,assigned,833
-IN,IND,+91,INR,🇮🇳,IND,"eng,hin",India,assigned,356
-IO,IOT,+246,USD,🇮🇴,,eng,British Indian Ocean Territory,assigned,086
-IQ,IRQ,+964,IQD,🇮🇶,IRQ,"ara,kur",Iraq,assigned,368
-IR,IRN,+98,IRR,🇮🇷,IRI,fas,"Iran, Islamic Republic Of",assigned,364
-IS,ISL,+354,ISK,🇮🇸,ISL,isl,Iceland,assigned,352
-IT,ITA,+39,EUR,🇮🇹,ITA,ita,Italy,assigned,380
-JE,JEY,+44,GBP,🇯🇪,JCI,"eng,fra",Jersey,assigned,832
-JM,JAM,+1 876,JMD,🇯🇲,JAM,eng,Jamaica,assigned,388
-JO,JOR,+962,JOD,🇯🇴,JOR,ara,Jordan,assigned,400
-JP,JPN,+81,JPY,🇯🇵,JPN,jpn,Japan,assigned,392
-JT,JTN,,,,,,Johnston Island,deleted,
-KE,KEN,+254,KES,🇰🇪,KEN,"eng,swa",Kenya,assigned,404
-KG,KGZ,+996,KGS,🇰🇬,KGZ,rus,Kyrgyzstan,assigned,417
-KH,KHM,+855,KHR,🇰🇭,CAM,khm,Cambodia,assigned,116
-KI,KIR,+686,AUD,🇰🇮,KIR,eng,Kiribati,assigned,296
-KM,COM,+269,KMF,🇰🇲,COM,"ara,fra",Comoros,assigned,174
-KN,KNA,+1 869,XCD,🇰🇳,SKN,eng,Saint Kitts And Nevis,assigned,659
-KP,PRK,+850,KPW,🇰🇵,PRK,kor,"Korea, Democratic People's Republic Of",assigned,408
-KR,KOR,+82,KRW,🇰🇷,KOR,kor,"Korea, Republic Of",assigned,410
-KW,KWT,+965,KWD,🇰🇼,KUW,ara,Kuwait,assigned,414
-KY,CYM,+1 345,KYD,🇰🇾,CAY,eng,Cayman Islands,assigned,136
-KZ,KAZ,"+7,+7 6,+7 7",KZT,🇰🇿,KAZ,"kaz,rus",Kazakhstan,assigned,398
-LA,LAO,+856,LAK,🇱🇦,LAO,lao,Lao People's Democratic Republic,assigned,418
-LB,LBN,+961,LBP,🇱🇧,LIB,"ara,hye",Lebanon,assigned,422
-LC,LCA,+1 758,XCD,🇱🇨,LCA,eng,Saint Lucia,assigned,662
-LI,LIE,+423,CHF,🇱🇮,LIE,deu,Liechtenstein,assigned,438
-LK,LKA,+94,LKR,🇱🇰,SRI,"sin,tam",Sri Lanka,assigned,144
-LR,LBR,+231,LRD,🇱🇷,LBR,eng,Liberia,assigned,430
-LS,LSO,+266,"LSL,ZAR",🇱🇸,LES,"eng,sot",Lesotho,assigned,426
-LT,LTU,+370,EUR,🇱🇹,LTU,lit,Lithuania,assigned,440
-LU,LUX,+352,EUR,🇱🇺,LUX,"fra,deu,ltz",Luxembourg,assigned,442
-LV,LVA,+371,EUR,🇱🇻,LAT,lav,Latvia,assigned,428
-LY,LBY,+218,LYD,🇱🇾,LBA,ara,Libya,assigned,434
-MA,MAR,+212,MAD,🇲🇦,MAR,ara,Morocco,assigned,504
-MC,MCO,+377,EUR,🇲🇨,MON,fra,Monaco,assigned,492
-MD,MDA,+373,MDL,🇲🇩,MDA,ron,Moldova,assigned,498
-ME,MNE,+382,EUR,🇲🇪,MNE,mot,Montenegro,assigned,499
-MF,MAF,+590,EUR,🇲🇫,,fra,Saint Martin,assigned,663
-MG,MDG,+261,MGA,🇲🇬,MAD,"fra,mlg",Madagascar,assigned,450
-MH,MHL,+692,USD,🇲🇭,MHL,"eng,mah",Marshall Islands,assigned,584
-MI,MID,,,,,,Midway Islands,deleted,
-MK,MKD,+389,MKD,🇲🇰,MKD,mkd,"Macedonia, The Former Yugoslav Republic Of",assigned,807
-ML,MLI,+223,XOF,🇲🇱,MLI,fra,Mali,assigned,466
-MM,MMR,+95,MMK,🇲🇲,MYA,mya,Myanmar,assigned,104
-MN,MNG,+976,MNT,🇲🇳,MGL,mon,Mongolia,assigned,496
-MO,MAC,+853,MOP,🇲🇴,MAC,"zho,por",Macao,assigned,446
-MP,MNP,+1 670,USD,🇲🇵,,eng,Northern Mariana Islands,assigned,580
-MQ,MTQ,+596,EUR,🇲🇶,,,Martinique,assigned,474
-MR,MRT,+222,MRO,🇲🇷,MTN,"ara,fra",Mauritania,assigned,478
-MS,MSR,+1 664,XCD,🇲🇸,,,Montserrat,assigned,500
-MT,MLT,+356,EUR,🇲🇹,MLT,"mlt,eng",Malta,assigned,470
-MU,MUS,+230,MUR,🇲🇺,MRI,"eng,fra",Mauritius,assigned,480
-MV,MDV,+960,MVR,🇲🇻,MDV,div,Maldives,assigned,462
-MW,MWI,+265,MWK,🇲🇼,MAW,"eng,nya",Malawi,assigned,454
-MX,MEX,+52,"MXN,MXV",🇲🇽,MEX,spa,Mexico,assigned,484
-MY,MYS,+60,MYR,🇲🇾,MAS,"msa,eng",Malaysia,assigned,458
-MZ,MOZ,+258,MZN,🇲🇿,MOZ,por,Mozambique,assigned,508
-NA,NAM,+264,"NAD,ZAR",🇳🇦,NAM,eng,Namibia,assigned,516
-NC,NCL,+687,XPF,🇳🇨,,fra,New Caledonia,assigned,540
-NE,NER,+227,XOF,🇳🇪,NIG,fra,Niger,assigned,562
-NF,NFK,+672,AUD,🇳🇫,,eng,Norfolk Island,assigned,574
-NG,NGA,+234,NGN,🇳🇬,NGR,eng,Nigeria,assigned,566
-NH,NHB,,,,,,New Hebrides,deleted,
-NI,NIC,+505,NIO,🇳🇮,NCA,spa,Nicaragua,assigned,558
-NL,NLD,+31,EUR,🇳🇱,NED,nld,Netherlands,assigned,528
-NO,NOR,+47,NOK,🇳🇴,NOR,nor,Norway,assigned,578
-NP,NPL,+977,NPR,🇳🇵,NEP,nep,Nepal,assigned,524
-NQ,ATN,,,,,,Dronning Maud Land,deleted,
-NR,NRU,+674,AUD,🇳🇷,NRU,"eng,nau",Nauru,assigned,520
-NT,NTZ,,,,,,Neutral Zone,deleted,
-NU,NIU,+683,NZD,🇳🇺,,eng,Niue,assigned,570
-NZ,NZL,+64,NZD,🇳🇿,NZL,eng,New Zealand,assigned,554
-OM,OMN,+968,OMR,🇴🇲,OMA,ara,Oman,assigned,512
-PA,PAN,+507,"PAB,USD",🇵🇦,PAN,spa,Panama,assigned,591
-PC,PCI,,,,,,"Pacific Islands, Trust Territory of the",deleted,
-PE,PER,+51,PEN,🇵🇪,PER,"spa,aym,que",Peru,assigned,604
-PF,PYF,+689,XPF,🇵🇫,,fra,French Polynesia,assigned,258
-PG,PNG,+675,PGK,🇵🇬,PNG,eng,Papua New Guinea,assigned,598
-PH,PHL,+63,PHP,🇵🇭,PHI,eng,Philippines,assigned,608
-PK,PAK,+92,PKR,🇵🇰,PAK,"urd,eng",Pakistan,assigned,586
-PL,POL,+48,PLN,🇵🇱,POL,pol,Poland,assigned,616
-PM,SPM,+508,EUR,🇵🇲,,eng,Saint Pierre And Miquelon,assigned,666
-PN,PCN,+872,NZD,🇵🇳,,eng,Pitcairn,assigned,612
-PR,PRI,"+1 787,+1 939",USD,🇵🇷,PUR,"spa,eng",Puerto Rico,assigned,630
-PS,PSE,+970,"JOD,EGP,ILS",🇵🇸,PLE,ara,"Palestinian Territory, Occupied",assigned,275
-PT,PRT,+351,EUR,🇵🇹,POR,por,Portugal,assigned,620
-PU,PUS,,,,,,U.S. Miscellaneous Pacific Islands,deleted,
-PW,PLW,+680,USD,🇵🇼,PLW,eng,Palau,assigned,585
-PY,PRY,+595,PYG,🇵🇾,PAR,spa,Paraguay,assigned,600
-PZ,PCZ,,,,,,Panama Canal Zone,deleted,
-QA,QAT,+974,QAR,🇶🇦,QAT,ara,Qatar,assigned,634
-RE,REU,+262,EUR,🇷🇪,,fra,Reunion,assigned,638
-RH,RHO,,,,,,Southern Rhodesia,deleted,
-RO,ROU,+40,RON,🇷🇴,ROU,ron,Romania,assigned,642
-RS,SRB,+381,RSD,🇷🇸,SRB,srp,Serbia,assigned,688
-RU,RUS,"+7,+7 3,+7 4,+7 8",RUB,🇷🇺,RUS,rus,Russian Federation,assigned,643
-RW,RWA,+250,RWF,🇷🇼,RWA,"eng,fra,kin",Rwanda,assigned,646
-SA,SAU,+966,SAR,🇸🇦,KSA,ara,Saudi Arabia,assigned,682
-SB,SLB,+677,SBD,🇸🇧,SOL,eng,Solomon Islands,assigned,090
-SC,SYC,+248,SCR,🇸🇨,SEY,"eng,fra",Seychelles,assigned,690
-SD,SDN,+249,SDG,🇸🇩,SUD,"ara,eng",Sudan,assigned,729
-SE,SWE,+46,SEK,🇸🇪,SWE,swe,Sweden,assigned,752
-SG,SGP,+65,SGD,🇸🇬,SIN,"eng,zho,msa,tam",Singapore,assigned,702
-SH,SHN,+290,SHP,🇸🇭,,eng,"Saint Helena, Ascension And Tristan Da Cunha",assigned,654
-SI,SVN,+386,EUR,🇸🇮,SLO,slv,Slovenia,assigned,705
-SJ,SJM,+47,NOK,🇸🇯,,,Svalbard And Jan Mayen,assigned,744
-SK,SVK,+421,EUR,🇸🇰,SVK,slk,Slovakia,assigned,703
-SK,SKM,,,,,,Sikkim,deleted,703
-SL,SLE,+232,SLL,🇸🇱,SLE,eng,Sierra Leone,assigned,694
-SM,SMR,+378,EUR,🇸🇲,SMR,ita,San Marino,assigned,674
-SN,SEN,+221,XOF,🇸🇳,SEN,fra,Senegal,assigned,686
-SO,SOM,+252,SOS,🇸🇴,SOM,som,Somalia,assigned,706
-SR,SUR,+597,SRD,🇸🇷,SUR,nld,Suriname,assigned,740
-SS,SSD,+211,SSP,🇸🇸,SSD,eng,South Sudan,assigned,728
-ST,STP,+239,STD,🇸🇹,STP,por,Sao Tome and Principe,assigned,678
-SU,,,RUB,,,rus,USSR,reserved,
-SV,SLV,+503,USD,🇸🇻,ESA,spa,El Salvador,assigned,222
-SX,SXM,+1 721,ANG,🇸🇽,,nld,Sint Maarten,assigned,534
-SY,SYR,+963,SYP,🇸🇾,SYR,ara,Syrian Arab Republic,assigned,760
-SZ,SWZ,+268,SZL,🇸🇿,SWZ,"eng,ssw",Swaziland,assigned,748
-TA,,+290,GBP,,,,Tristan de Cunha,reserved,
-TC,TCA,+1 649,USD,🇹🇨,,eng,Turks And Caicos Islands,assigned,796
-TD,TCD,+235,XAF,🇹🇩,CHA,"ara,fra",Chad,assigned,148
-TF,ATF,,EUR,🇹🇫,,fra,French Southern Territories,assigned,260
-TG,TGO,+228,XOF,🇹🇬,TOG,fra,Togo,assigned,768
-TH,THA,+66,THB,🇹🇭,THA,tha,Thailand,assigned,764
-TJ,TJK,+992,TJS,🇹🇯,TJK,"tgk,rus",Tajikistan,assigned,762
-TK,TKL,+690,NZD,🇹🇰,,eng,Tokelau,assigned,772
-TL,TLS,+670,USD,🇹🇱,TLS,por,"Timor-Leste, Democratic Republic of",assigned,626
-TM,TKM,+993,TMT,🇹🇲,TKM,"tuk,rus",Turkmenistan,assigned,795
-TN,TUN,+216,TND,🇹🇳,TUN,ara,Tunisia,assigned,788
-TO,TON,+676,TOP,🇹🇴,TGA,eng,Tonga,assigned,776
-TP,TMP,,,,,,East Timor,deleted,
-TR,TUR,+90,TRY,🇹🇷,TUR,tur,Turkey,assigned,792
-TT,TTO,+1 868,TTD,🇹🇹,TTO,eng,Trinidad And Tobago,assigned,780
-TV,TUV,+688,AUD,🇹🇻,TUV,eng,Tuvalu,assigned,798
-TW,TWN,+886,TWD,🇹🇼,TPE,zho,Taiwan,assigned,158
-TZ,TZA,+255,TZS,🇹🇿,TAN,"swa,eng","Tanzania, United Republic Of",assigned,834
-UA,UKR,+380,UAH,🇺🇦,UKR,"ukr,rus",Ukraine,assigned,804
-UG,UGA,+256,UGX,🇺🇬,UGA,"eng,swa",Uganda,assigned,800
-UK,,,GBP,,,"eng,cor,gle,gla,cym",United Kingdom,reserved,
-UM,UMI,+1,USD,🇺🇲,,eng,United States Minor Outlying Islands,assigned,581
-US,USA,+1,USD,🇺🇸,USA,eng,United States,assigned,840
-UY,URY,+598,"UYU,UYI",🇺🇾,URU,spa,Uruguay,assigned,858
-UZ,UZB,+998,UZS,🇺🇿,UZB,"uzb,rus",Uzbekistan,assigned,860
-VA,VAT,"+379,+39",EUR,🇻🇦,,ita,Vatican City State,assigned,336
-VC,VCT,+1 784,XCD,🇻🇨,VIN,eng,Saint Vincent And The Grenadines,assigned,670
-VD,VDR,,,,,,"Viet-Nam, Democratic Republic of",deleted,
-VE,VEN,+58,VEF,🇻🇪,VEN,spa,"Venezuela, Bolivarian Republic Of",assigned,862
-VG,VGB,+1 284,USD,🇻🇬,IVB,eng,Virgin Islands (British),assigned,092
-VI,VIR,+1 340,USD,🇻🇮,ISV,eng,Virgin Islands (US),assigned,850
-VN,VNM,+84,VND,🇻🇳,VIE,vie,Viet Nam,assigned,704
-VU,VUT,+678,VUV,🇻🇺,VAN,"bis,eng,fra",Vanuatu,assigned,548
-WF,WLF,+681,XPF,🇼🇫,,fra,Wallis And Futuna,assigned,876
-WK,WAK,,,,,,Wake Island,deleted,
-WS,WSM,+685,WST,🇼🇸,SAM,"eng,smo",Samoa,assigned,882
-XK,,+383,EUR,,KOS,"sqi,srp,bos,tur,rom",Kosovo,user assigned,
-YD,YMD,,,,,,"Yemen, Democratic",deleted,
-YE,YEM,+967,YER,🇾🇪,YEM,ara,Yemen,assigned,887
-YT,MYT,+262,EUR,🇾🇹,,fra,Mayotte,assigned,175
-YU,YUG,,,,,,Yugoslavia,deleted,
-ZA,ZAF,+27,ZAR,🇿🇦,RSA,"afr,eng,nbl,som,tso,ven,xho,zul",South Africa,assigned,710
-ZM,ZMB,+260,ZMW,🇿🇲,ZAM,eng,Zambia,assigned,894
-ZR,ZAR,,,,,,Zaire,deleted,
-ZW,ZWE,+263,"USD,ZAR,BWP,GBP,EUR",🇿🇼,ZIM,"eng,sna,nde",Zimbabwe,assigned,716
+alpha2,alpha3,numeric,countryCallingCodes,currencies,emoji,ioc,languages,name,status
+AC,,,+247,USD,,SHP,eng,Ascension Island,reserved
+AD,AND,020,+376,EUR,🇦🇩,AND,cat,Andorra,assigned
+AE,ARE,784,+971,AED,🇦🇪,UAE,ara,United Arab Emirates,assigned
+AF,AFG,004,+93,AFN,🇦🇫,AFG,pus,Afghanistan,assigned
+AG,ATG,028,+1 268,XCD,🇦🇬,ANT,eng,Antigua And Barbuda,assigned
+AI,AIA,660,+1 264,XCD,🇦🇮,,eng,Anguilla,assigned
+AI,AFI,660,,,,,,French Afar and Issas,deleted
+AL,ALB,008,+355,ALL,🇦🇱,ALB,sqi,Albania,assigned
+AM,ARM,051,+374,AMD,🇦🇲,ARM,"hye,rus",Armenia,assigned
+AN,ANT,,,,,,,Netherlands Antilles,deleted
+AO,AGO,024,+244,AOA,🇦🇴,ANG,por,Angola,assigned
+AQ,ATA,010,+672,,🇦🇶,,,Antarctica,assigned
+AR,ARG,032,+54,ARS,🇦🇷,ARG,spa,Argentina,assigned
+AS,ASM,016,+1 684,USD,🇦🇸,ASA,"eng,smo",American Samoa,assigned
+AT,AUT,040,+43,EUR,🇦🇹,AUT,deu,Austria,assigned
+AU,AUS,036,+61,AUD,🇦🇺,AUS,eng,Australia,assigned
+AW,ABW,533,+297,AWG,🇦🇼,ARU,nld,Aruba,assigned
+AX,ALA,248,+358,EUR,🇦🇽,,swe,Åland Islands,assigned
+AZ,AZE,031,+994,AZN,🇦🇿,AZE,aze,Azerbaijan,assigned
+BA,BIH,070,+387,BAM,🇧🇦,BIH,"bos,cre,srp",Bosnia & Herzegovina,assigned
+BB,BRB,052,+1 246,BBD,🇧🇧,BAR,eng,Barbados,assigned
+BD,BGD,050,+880,BDT,🇧🇩,BAN,ben,Bangladesh,assigned
+BE,BEL,056,+32,EUR,🇧🇪,BEL,"nld,fra,deu",Belgium,assigned
+BF,BFA,854,+226,XOF,🇧🇫,BUR,fra,Burkina Faso,assigned
+BG,BGR,100,+359,BGN,🇧🇬,BUL,bul,Bulgaria,assigned
+BH,BHR,048,+973,BHD,🇧🇭,BRN,ara,Bahrain,assigned
+BI,BDI,108,+257,BIF,🇧🇮,BDI,fra,Burundi,assigned
+BJ,BEN,204,+229,XOF,🇧🇯,BEN,fra,Benin,assigned
+BL,BLM,652,+590,EUR,🇧🇱,,fra,Saint Barthélemy,assigned
+BM,BMU,060,+1 441,BMD,🇧🇲,BER,eng,Bermuda,assigned
+BN,BRN,096,+673,BND,🇧🇳,BRU,"msa,eng",Brunei Darussalam,assigned
+BO,BOL,068,+591,"BOB,BOV",🇧🇴,BOL,"spa,aym,que","Bolivia, Plurinational State Of",assigned
+BQ,BES,535,+599,USD,🇧🇶,,nld,"Bonaire, Saint Eustatius And Saba",assigned
+BQ,ATB,535,,,,,,British Antarctic Territory,deleted
+BR,BRA,076,+55,BRL,🇧🇷,BRA,por,Brazil,assigned
+BS,BHS,044,+1 242,BSD,🇧🇸,BAH,eng,Bahamas,assigned
+BT,BTN,064,+975,"INR,BTN",🇧🇹,BHU,dzo,Bhutan,assigned
+BU,BUR,,,,,,,Burma,deleted
+BV,BVT,074,,NOK,🇧🇻,,,Bouvet Island,assigned
+BW,BWA,072,+267,BWP,🇧🇼,BOT,"eng,tsn",Botswana,assigned
+BY,BLR,112,+375,BYR,🇧🇾,BLR,"bel,rus",Belarus,assigned
+BY,BYS,112,,,,,,Byelorussian SSR,deleted
+BZ,BLZ,084,+501,BZD,🇧🇿,BIZ,eng,Belize,assigned
+CA,CAN,124,+1,CAD,🇨🇦,CAN,"eng,fra",Canada,assigned
+CC,CCK,166,+61,AUD,🇨🇨,,eng,Cocos (Keeling) Islands,assigned
+CD,COD,180,+243,CDF,🇨🇩,COD,"fra,lin,kon,swa",Democratic Republic Of Congo,assigned
+CF,CAF,140,+236,XAF,🇨🇫,CAF,"fra,sag",Central African Republic,assigned
+CG,COG,178,+242,XAF,🇨🇬,CGO,"fra,lin",Republic Of Congo,assigned
+CH,CHE,756,+41,"CHF,CHE,CHW",🇨🇭,SUI,"deu,fra,ita,roh",Switzerland,assigned
+CI,CIV,384,+225,XOF,🇨🇮,CIV,fra,Côte d'Ivoire,assigned
+CK,COK,184,+682,NZD,🇨🇰,COK,"eng,mri",Cook Islands,assigned
+CL,CHL,152,+56,"CLP,CLF",🇨🇱,CHI,spa,Chile,assigned
+CM,CMR,120,+237,XAF,🇨🇲,CMR,"eng,fra",Cameroon,assigned
+CN,CHN,156,+86,CNY,🇨🇳,CHN,zho,China,assigned
+CO,COL,170,+57,"COP,COU",🇨🇴,COL,spa,Colombia,assigned
+CP,,,,EUR,,,,Clipperton Island,reserved
+CR,CRI,188,+506,CRC,🇨🇷,CRC,spa,Costa Rica,assigned
+CS,CSK,,,,,,,Czechoslovakia,deleted
+CS,SCG,,,,,,,Serbia and Montenegro,deleted
+CT,CTE,,,,,,,Canton and Enderbury Islands,deleted
+CU,CUB,192,+53,"CUP,CUC",🇨🇺,CUB,spa,Cuba,assigned
+CV,CPV,132,+238,CVE,🇨🇻,CPV,por,Cabo Verde,assigned
+CW,CUW,531,+599,ANG,🇨🇼,,nld,Curacao,assigned
+CX,CXR,162,+61,AUD,🇨🇽,,eng,Christmas Island,assigned
+CY,CYP,196,+357,EUR,🇨🇾,CYP,"ell,tur",Cyprus,assigned
+CZ,CZE,203,+420,CZK,🇨🇿,CZE,ces,Czech Republic,assigned
+DD,DDR,,,,,,,German Democratic Republic,deleted
+DE,DEU,276,+49,EUR,🇩🇪,GER,deu,Germany,assigned
+DG,,,,USD,,,,Diego Garcia,reserved
+DJ,DJI,262,+253,DJF,🇩🇯,DJI,"ara,fra",Djibouti,assigned
+DK,DNK,208,+45,DKK,🇩🇰,DEN,dan,Denmark,assigned
+DM,DMA,212,+1 767,XCD,🇩🇲,DMA,eng,Dominica,assigned
+DO,DOM,214,"+1 809,+1 829,+1 849",DOP,🇩🇴,DOM,spa,Dominican Republic,assigned
+DY,DHY,,,,,,,Dahomey,deleted
+DZ,DZA,012,+213,DZD,🇩🇿,ALG,ara,Algeria,assigned
+EA,,,,EUR,,,,"Ceuta, Mulilla",reserved
+EC,ECU,218,+593,USD,🇪🇨,ECU,"spa,que",Ecuador,assigned
+EE,EST,233,+372,EUR,🇪🇪,EST,est,Estonia,assigned
+EG,EGY,818,+20,EGP,🇪🇬,EGY,ara,Egypt,assigned
+EH,ESH,732,+212,MAD,🇪🇭,,,Western Sahara,assigned
+ER,ERI,232,+291,ERN,🇪🇷,ERI,"eng,ara,tir",Eritrea,assigned
+ES,ESP,724,+34,EUR,🇪🇸,ESP,spa,Spain,assigned
+ET,ETH,231,+251,ETB,🇪🇹,ETH,amh,Ethiopia,assigned
+EU,,,+388,EUR,🇪🇺,,,European Union,reserved
+FI,FIN,246,+358,EUR,🇫🇮,FIN,"fin,swe",Finland,assigned
+FJ,FJI,242,+679,FJD,🇫🇯,FIJ,"eng,fij",Fiji,assigned
+FK,FLK,238,+500,FKP,🇫🇰,,eng,Falkland Islands,assigned
+FM,FSM,583,+691,USD,🇫🇲,FSM,eng,"Micronesia, Federated States Of",assigned
+FO,FRO,234,+298,DKK,🇫🇴,FAI,"fao,dan",Faroe Islands,assigned
+FQ,ATF,,,,,,,French Southern and Antarctic Territories,deleted
+FR,FRA,250,+33,EUR,🇫🇷,FRA,fra,France,assigned
+FX,,,+241,EUR,,,fra,"France, Metropolitan",reserved
+GA,GAB,266,+241,XAF,🇬🇦,GAB,fra,Gabon,assigned
+GB,GBR,826,+44,GBP,🇬🇧,GBR,"eng,cor,gle,gla,cym",United Kingdom,assigned
+GD,GRD,308,+473,XCD,🇬🇩,GRN,eng,Grenada,assigned
+GE,GEO,268,+995,GEL,🇬🇪,GEO,kat,Georgia,assigned
+GE,GEL,268,,,,,,Gilbert and Ellice Islands,deleted
+GF,GUF,254,+594,EUR,🇬🇫,,fra,French Guiana,assigned
+GG,GGY,831,+44,GBP,🇬🇬,GCI,fra,Guernsey,assigned
+GH,GHA,288,+233,GHS,🇬🇭,GHA,eng,Ghana,assigned
+GI,GIB,292,+350,GIP,🇬🇮,,eng,Gibraltar,assigned
+GL,GRL,304,+299,DKK,🇬🇱,,kal,Greenland,assigned
+GM,GMB,270,+220,GMD,🇬🇲,GAM,eng,Gambia,assigned
+GN,GIN,324,+224,GNF,🇬🇳,GUI,fra,Guinea,assigned
+GP,GLP,312,+590,EUR,🇬🇵,,fra,Guadeloupe,assigned
+GQ,GNQ,226,+240,XAF,🇬🇶,GEQ,"spa,fra,por",Equatorial Guinea,assigned
+GR,GRC,300,+30,EUR,🇬🇷,GRE,ell,Greece,assigned
+GS,SGS,239,,GBP,🇬🇸,,eng,South Georgia And The South Sandwich Islands,assigned
+GT,GTM,320,+502,GTQ,🇬🇹,GUA,spa,Guatemala,assigned
+GU,GUM,316,+1 671,USD,🇬🇺,GUM,eng,Guam,assigned
+GW,GNB,624,+245,XOF,🇬🇼,GBS,por,Guinea-bissau,assigned
+GY,GUY,328,+592,GYD,🇬🇾,GUY,eng,Guyana,assigned
+HK,HKG,344,+852,HKD,🇭🇰,HKG,"zho,eng",Hong Kong,assigned
+HM,HMD,334,,AUD,🇭🇲,,,Heard Island And McDonald Islands,assigned
+HN,HND,340,+504,HNL,🇭🇳,HON,spa,Honduras,assigned
+HR,HRV,191,+385,HRK,🇭🇷,CRO,hrv,Croatia,assigned
+HT,HTI,332,+509,"HTG,USD",🇭🇹,HAI,"fra,hat",Haiti,assigned
+HU,HUN,348,+36,HUF,🇭🇺,HUN,hun,Hungary,assigned
+HV,HVO,,,,,,,Upper Volta,deleted
+IC,,,,EUR,,,,Canary Islands,reserved
+ID,IDN,360,+62,IDR,🇮🇩,INA,ind,Indonesia,assigned
+IE,IRL,372,+353,EUR,🇮🇪,IRL,"eng,gle",Ireland,assigned
+IL,ISR,376,+972,ILS,🇮🇱,ISR,"heb,ara,eng",Israel,assigned
+IM,IMN,833,+44,GBP,🇮🇲,,"eng,glv",Isle Of Man,assigned
+IN,IND,356,+91,INR,🇮🇳,IND,"eng,hin",India,assigned
+IO,IOT,086,+246,USD,🇮🇴,,eng,British Indian Ocean Territory,assigned
+IQ,IRQ,368,+964,IQD,🇮🇶,IRQ,"ara,kur",Iraq,assigned
+IR,IRN,364,+98,IRR,🇮🇷,IRI,fas,"Iran, Islamic Republic Of",assigned
+IS,ISL,352,+354,ISK,🇮🇸,ISL,isl,Iceland,assigned
+IT,ITA,380,+39,EUR,🇮🇹,ITA,ita,Italy,assigned
+JE,JEY,832,+44,GBP,🇯🇪,JCI,"eng,fra",Jersey,assigned
+JM,JAM,388,+1 876,JMD,🇯🇲,JAM,eng,Jamaica,assigned
+JO,JOR,400,+962,JOD,🇯🇴,JOR,ara,Jordan,assigned
+JP,JPN,392,+81,JPY,🇯🇵,JPN,jpn,Japan,assigned
+JT,JTN,,,,,,,Johnston Island,deleted
+KE,KEN,404,+254,KES,🇰🇪,KEN,"eng,swa",Kenya,assigned
+KG,KGZ,417,+996,KGS,🇰🇬,KGZ,rus,Kyrgyzstan,assigned
+KH,KHM,116,+855,KHR,🇰🇭,CAM,khm,Cambodia,assigned
+KI,KIR,296,+686,AUD,🇰🇮,KIR,eng,Kiribati,assigned
+KM,COM,174,+269,KMF,🇰🇲,COM,"ara,fra",Comoros,assigned
+KN,KNA,659,+1 869,XCD,🇰🇳,SKN,eng,Saint Kitts And Nevis,assigned
+KP,PRK,408,+850,KPW,🇰🇵,PRK,kor,"Korea, Democratic People's Republic Of",assigned
+KR,KOR,410,+82,KRW,🇰🇷,KOR,kor,"Korea, Republic Of",assigned
+KW,KWT,414,+965,KWD,🇰🇼,KUW,ara,Kuwait,assigned
+KY,CYM,136,+1 345,KYD,🇰🇾,CAY,eng,Cayman Islands,assigned
+KZ,KAZ,398,"+7,+7 6,+7 7",KZT,🇰🇿,KAZ,"kaz,rus",Kazakhstan,assigned
+LA,LAO,418,+856,LAK,🇱🇦,LAO,lao,Lao People's Democratic Republic,assigned
+LB,LBN,422,+961,LBP,🇱🇧,LIB,"ara,hye",Lebanon,assigned
+LC,LCA,662,+1 758,XCD,🇱🇨,LCA,eng,Saint Lucia,assigned
+LI,LIE,438,+423,CHF,🇱🇮,LIE,deu,Liechtenstein,assigned
+LK,LKA,144,+94,LKR,🇱🇰,SRI,"sin,tam",Sri Lanka,assigned
+LR,LBR,430,+231,LRD,🇱🇷,LBR,eng,Liberia,assigned
+LS,LSO,426,+266,"LSL,ZAR",🇱🇸,LES,"eng,sot",Lesotho,assigned
+LT,LTU,440,+370,EUR,🇱🇹,LTU,lit,Lithuania,assigned
+LU,LUX,442,+352,EUR,🇱🇺,LUX,"fra,deu,ltz",Luxembourg,assigned
+LV,LVA,428,+371,EUR,🇱🇻,LAT,lav,Latvia,assigned
+LY,LBY,434,+218,LYD,🇱🇾,LBA,ara,Libya,assigned
+MA,MAR,504,+212,MAD,🇲🇦,MAR,ara,Morocco,assigned
+MC,MCO,492,+377,EUR,🇲🇨,MON,fra,Monaco,assigned
+MD,MDA,498,+373,MDL,🇲🇩,MDA,ron,Moldova,assigned
+ME,MNE,499,+382,EUR,🇲🇪,MNE,mot,Montenegro,assigned
+MF,MAF,663,+590,EUR,🇲🇫,,fra,Saint Martin,assigned
+MG,MDG,450,+261,MGA,🇲🇬,MAD,"fra,mlg",Madagascar,assigned
+MH,MHL,584,+692,USD,🇲🇭,MHL,"eng,mah",Marshall Islands,assigned
+MI,MID,,,,,,,Midway Islands,deleted
+MK,MKD,807,+389,MKD,🇲🇰,MKD,mkd,"Macedonia, The Former Yugoslav Republic Of",assigned
+ML,MLI,466,+223,XOF,🇲🇱,MLI,fra,Mali,assigned
+MM,MMR,104,+95,MMK,🇲🇲,MYA,mya,Myanmar,assigned
+MN,MNG,496,+976,MNT,🇲🇳,MGL,mon,Mongolia,assigned
+MO,MAC,446,+853,MOP,🇲🇴,MAC,"zho,por",Macao,assigned
+MP,MNP,580,+1 670,USD,🇲🇵,,eng,Northern Mariana Islands,assigned
+MQ,MTQ,474,+596,EUR,🇲🇶,,,Martinique,assigned
+MR,MRT,478,+222,MRO,🇲🇷,MTN,"ara,fra",Mauritania,assigned
+MS,MSR,500,+1 664,XCD,🇲🇸,,,Montserrat,assigned
+MT,MLT,470,+356,EUR,🇲🇹,MLT,"mlt,eng",Malta,assigned
+MU,MUS,480,+230,MUR,🇲🇺,MRI,"eng,fra",Mauritius,assigned
+MV,MDV,462,+960,MVR,🇲🇻,MDV,div,Maldives,assigned
+MW,MWI,454,+265,MWK,🇲🇼,MAW,"eng,nya",Malawi,assigned
+MX,MEX,484,+52,"MXN,MXV",🇲🇽,MEX,spa,Mexico,assigned
+MY,MYS,458,+60,MYR,🇲🇾,MAS,"msa,eng",Malaysia,assigned
+MZ,MOZ,508,+258,MZN,🇲🇿,MOZ,por,Mozambique,assigned
+NA,NAM,516,+264,"NAD,ZAR",🇳🇦,NAM,eng,Namibia,assigned
+NC,NCL,540,+687,XPF,🇳🇨,,fra,New Caledonia,assigned
+NE,NER,562,+227,XOF,🇳🇪,NIG,fra,Niger,assigned
+NF,NFK,574,+672,AUD,🇳🇫,,eng,Norfolk Island,assigned
+NG,NGA,566,+234,NGN,🇳🇬,NGR,eng,Nigeria,assigned
+NH,NHB,,,,,,,New Hebrides,deleted
+NI,NIC,558,+505,NIO,🇳🇮,NCA,spa,Nicaragua,assigned
+NL,NLD,528,+31,EUR,🇳🇱,NED,nld,Netherlands,assigned
+NO,NOR,578,+47,NOK,🇳🇴,NOR,nor,Norway,assigned
+NP,NPL,524,+977,NPR,🇳🇵,NEP,nep,Nepal,assigned
+NQ,ATN,,,,,,,Dronning Maud Land,deleted
+NR,NRU,520,+674,AUD,🇳🇷,NRU,"eng,nau",Nauru,assigned
+NT,NTZ,,,,,,,Neutral Zone,deleted
+NU,NIU,570,+683,NZD,🇳🇺,,eng,Niue,assigned
+NZ,NZL,554,+64,NZD,🇳🇿,NZL,eng,New Zealand,assigned
+OM,OMN,512,+968,OMR,🇴🇲,OMA,ara,Oman,assigned
+PA,PAN,591,+507,"PAB,USD",🇵🇦,PAN,spa,Panama,assigned
+PC,PCI,,,,,,,"Pacific Islands, Trust Territory of the",deleted
+PE,PER,604,+51,PEN,🇵🇪,PER,"spa,aym,que",Peru,assigned
+PF,PYF,258,+689,XPF,🇵🇫,,fra,French Polynesia,assigned
+PG,PNG,598,+675,PGK,🇵🇬,PNG,eng,Papua New Guinea,assigned
+PH,PHL,608,+63,PHP,🇵🇭,PHI,eng,Philippines,assigned
+PK,PAK,586,+92,PKR,🇵🇰,PAK,"urd,eng",Pakistan,assigned
+PL,POL,616,+48,PLN,🇵🇱,POL,pol,Poland,assigned
+PM,SPM,666,+508,EUR,🇵🇲,,eng,Saint Pierre And Miquelon,assigned
+PN,PCN,612,+872,NZD,🇵🇳,,eng,Pitcairn,assigned
+PR,PRI,630,"+1 787,+1 939",USD,🇵🇷,PUR,"spa,eng",Puerto Rico,assigned
+PS,PSE,275,+970,"JOD,EGP,ILS",🇵🇸,PLE,ara,"Palestinian Territory, Occupied",assigned
+PT,PRT,620,+351,EUR,🇵🇹,POR,por,Portugal,assigned
+PU,PUS,,,,,,,U.S. Miscellaneous Pacific Islands,deleted
+PW,PLW,585,+680,USD,🇵🇼,PLW,eng,Palau,assigned
+PY,PRY,600,+595,PYG,🇵🇾,PAR,spa,Paraguay,assigned
+PZ,PCZ,,,,,,,Panama Canal Zone,deleted
+QA,QAT,634,+974,QAR,🇶🇦,QAT,ara,Qatar,assigned
+RE,REU,638,+262,EUR,🇷🇪,,fra,Reunion,assigned
+RH,RHO,,,,,,,Southern Rhodesia,deleted
+RO,ROU,642,+40,RON,🇷🇴,ROU,ron,Romania,assigned
+RS,SRB,688,+381,RSD,🇷🇸,SRB,srp,Serbia,assigned
+RU,RUS,643,"+7,+7 3,+7 4,+7 8",RUB,🇷🇺,RUS,rus,Russian Federation,assigned
+RW,RWA,646,+250,RWF,🇷🇼,RWA,"eng,fra,kin",Rwanda,assigned
+SA,SAU,682,+966,SAR,🇸🇦,KSA,ara,Saudi Arabia,assigned
+SB,SLB,090,+677,SBD,🇸🇧,SOL,eng,Solomon Islands,assigned
+SC,SYC,690,+248,SCR,🇸🇨,SEY,"eng,fra",Seychelles,assigned
+SD,SDN,729,+249,SDG,🇸🇩,SUD,"ara,eng",Sudan,assigned
+SE,SWE,752,+46,SEK,🇸🇪,SWE,swe,Sweden,assigned
+SG,SGP,702,+65,SGD,🇸🇬,SIN,"eng,zho,msa,tam",Singapore,assigned
+SH,SHN,654,+290,SHP,🇸🇭,,eng,"Saint Helena, Ascension And Tristan Da Cunha",assigned
+SI,SVN,705,+386,EUR,🇸🇮,SLO,slv,Slovenia,assigned
+SJ,SJM,744,+47,NOK,🇸🇯,,,Svalbard And Jan Mayen,assigned
+SK,SVK,703,+421,EUR,🇸🇰,SVK,slk,Slovakia,assigned
+SK,SKM,703,,,,,,Sikkim,deleted
+SL,SLE,694,+232,SLL,🇸🇱,SLE,eng,Sierra Leone,assigned
+SM,SMR,674,+378,EUR,🇸🇲,SMR,ita,San Marino,assigned
+SN,SEN,686,+221,XOF,🇸🇳,SEN,fra,Senegal,assigned
+SO,SOM,706,+252,SOS,🇸🇴,SOM,som,Somalia,assigned
+SR,SUR,740,+597,SRD,🇸🇷,SUR,nld,Suriname,assigned
+SS,SSD,728,+211,SSP,🇸🇸,SSD,eng,South Sudan,assigned
+ST,STP,678,+239,STD,🇸🇹,STP,por,Sao Tome and Principe,assigned
+SU,,,,RUB,,,rus,USSR,reserved
+SV,SLV,222,+503,USD,🇸🇻,ESA,spa,El Salvador,assigned
+SX,SXM,534,+1 721,ANG,🇸🇽,,nld,Sint Maarten,assigned
+SY,SYR,760,+963,SYP,🇸🇾,SYR,ara,Syrian Arab Republic,assigned
+SZ,SWZ,748,+268,SZL,🇸🇿,SWZ,"eng,ssw",Swaziland,assigned
+TA,,,+290,GBP,,,,Tristan de Cunha,reserved
+TC,TCA,796,+1 649,USD,🇹🇨,,eng,Turks And Caicos Islands,assigned
+TD,TCD,148,+235,XAF,🇹🇩,CHA,"ara,fra",Chad,assigned
+TF,ATF,260,,EUR,🇹🇫,,fra,French Southern Territories,assigned
+TG,TGO,768,+228,XOF,🇹🇬,TOG,fra,Togo,assigned
+TH,THA,764,+66,THB,🇹🇭,THA,tha,Thailand,assigned
+TJ,TJK,762,+992,TJS,🇹🇯,TJK,"tgk,rus",Tajikistan,assigned
+TK,TKL,772,+690,NZD,🇹🇰,,eng,Tokelau,assigned
+TL,TLS,626,+670,USD,🇹🇱,TLS,por,"Timor-Leste, Democratic Republic of",assigned
+TM,TKM,795,+993,TMT,🇹🇲,TKM,"tuk,rus",Turkmenistan,assigned
+TN,TUN,788,+216,TND,🇹🇳,TUN,ara,Tunisia,assigned
+TO,TON,776,+676,TOP,🇹🇴,TGA,eng,Tonga,assigned
+TP,TMP,,,,,,,East Timor,deleted
+TR,TUR,792,+90,TRY,🇹🇷,TUR,tur,Turkey,assigned
+TT,TTO,780,+1 868,TTD,🇹🇹,TTO,eng,Trinidad And Tobago,assigned
+TV,TUV,798,+688,AUD,🇹🇻,TUV,eng,Tuvalu,assigned
+TW,TWN,158,+886,TWD,🇹🇼,TPE,zho,Taiwan,assigned
+TZ,TZA,834,+255,TZS,🇹🇿,TAN,"swa,eng","Tanzania, United Republic Of",assigned
+UA,UKR,804,+380,UAH,🇺🇦,UKR,"ukr,rus",Ukraine,assigned
+UG,UGA,800,+256,UGX,🇺🇬,UGA,"eng,swa",Uganda,assigned
+UK,,,,GBP,,,"eng,cor,gle,gla,cym",United Kingdom,reserved
+UM,UMI,581,+1,USD,🇺🇲,,eng,United States Minor Outlying Islands,assigned
+US,USA,840,+1,USD,🇺🇸,USA,eng,United States,assigned
+UY,URY,858,+598,"UYU,UYI",🇺🇾,URU,spa,Uruguay,assigned
+UZ,UZB,860,+998,UZS,🇺🇿,UZB,"uzb,rus",Uzbekistan,assigned
+VA,VAT,336,"+379,+39",EUR,🇻🇦,,ita,Vatican City State,assigned
+VC,VCT,670,+1 784,XCD,🇻🇨,VIN,eng,Saint Vincent And The Grenadines,assigned
+VD,VDR,,,,,,,"Viet-Nam, Democratic Republic of",deleted
+VE,VEN,862,+58,VEF,🇻🇪,VEN,spa,"Venezuela, Bolivarian Republic Of",assigned
+VG,VGB,092,+1 284,USD,🇻🇬,IVB,eng,Virgin Islands (British),assigned
+VI,VIR,850,+1 340,USD,🇻🇮,ISV,eng,Virgin Islands (US),assigned
+VN,VNM,704,+84,VND,🇻🇳,VIE,vie,Viet Nam,assigned
+VU,VUT,548,+678,VUV,🇻🇺,VAN,"bis,eng,fra",Vanuatu,assigned
+WF,WLF,876,+681,XPF,🇼🇫,,fra,Wallis And Futuna,assigned
+WK,WAK,,,,,,,Wake Island,deleted
+WS,WSM,882,+685,WST,🇼🇸,SAM,"eng,smo",Samoa,assigned
+XK,,,+383,EUR,,KOS,"sqi,srp,bos,tur,rom",Kosovo,user assigned
+YD,YMD,,,,,,,"Yemen, Democratic",deleted
+YE,YEM,887,+967,YER,🇾🇪,YEM,ara,Yemen,assigned
+YT,MYT,175,+262,EUR,🇾🇹,,fra,Mayotte,assigned
+YU,YUG,,,,,,,Yugoslavia,deleted
+ZA,ZAF,710,+27,ZAR,🇿🇦,RSA,"afr,eng,nbl,som,tso,ven,xho,zul",South Africa,assigned
+ZM,ZMB,894,+260,ZMW,🇿🇲,ZAM,eng,Zambia,assigned
+ZR,ZAR,,,,,,,Zaire,deleted
+ZW,ZWE,716,+263,"USD,ZAR,BWP,GBP,EUR",🇿🇼,ZIM,"eng,sna,nde",Zimbabwe,assigned
