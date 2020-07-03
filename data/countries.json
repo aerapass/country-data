@@ -2,6 +2,7 @@
   {
     "alpha2": "AC",
     "alpha3": "",
+    "numeric": "",
     "countryCallingCodes": [
       "+247"
     ],
@@ -14,12 +15,12 @@
       "eng"
     ],
     "name": "Ascension Island",
-    "status": "reserved",
-    "numeric": ""
+    "status": "reserved"
   },
   {
     "alpha2": "AD",
     "alpha3": "AND",
+    "numeric": "020",
     "countryCallingCodes": [
       "+376"
     ],
@@ -32,12 +33,12 @@
       "cat"
     ],
     "name": "Andorra",
-    "status": "assigned",
-    "numeric": "020"
+    "status": "assigned"
   },
   {
     "alpha2": "AE",
     "alpha3": "ARE",
+    "numeric": "784",
     "countryCallingCodes": [
       "+971"
     ],
@@ -50,12 +51,12 @@
       "ara"
     ],
     "name": "United Arab Emirates",
-    "status": "assigned",
-    "numeric": "784"
+    "status": "assigned"
   },
   {
     "alpha2": "AF",
     "alpha3": "AFG",
+    "numeric": "004",
     "countryCallingCodes": [
       "+93"
     ],
@@ -68,12 +69,12 @@
       "pus"
     ],
     "name": "Afghanistan",
-    "status": "assigned",
-    "numeric": "004"
+    "status": "assigned"
   },
   {
     "alpha2": "AG",
     "alpha3": "ATG",
+    "numeric": "028",
     "countryCallingCodes": [
       "+1 268"
     ],
@@ -86,12 +87,12 @@
       "eng"
     ],
     "name": "Antigua And Barbuda",
-    "status": "assigned",
-    "numeric": "028"
+    "status": "assigned"
   },
   {
     "alpha2": "AI",
     "alpha3": "AIA",
+    "numeric": "660",
     "countryCallingCodes": [
       "+1 264"
     ],
@@ -104,23 +105,23 @@
       "eng"
     ],
     "name": "Anguilla",
-    "status": "assigned",
-    "numeric": "660"
+    "status": "assigned"
   },
   {
     "alpha2": "AI",
     "alpha3": "AFI",
+    "numeric": "660",
     "countryCallingCodes": [],
     "currencies": [],
     "ioc": "",
     "languages": [],
     "name": "French Afar and Issas",
-    "status": "deleted",
-    "numeric": "660"
+    "status": "deleted"
   },
   {
     "alpha2": "AL",
     "alpha3": "ALB",
+    "numeric": "008",
     "countryCallingCodes": [
       "+355"
     ],
@@ -133,12 +134,12 @@
       "sqi"
     ],
     "name": "Albania",
-    "status": "assigned",
-    "numeric": "008"
+    "status": "assigned"
   },
   {
     "alpha2": "AM",
     "alpha3": "ARM",
+    "numeric": "051",
     "countryCallingCodes": [
       "+374"
     ],
@@ -152,23 +153,23 @@
       "rus"
     ],
     "name": "Armenia",
-    "status": "assigned",
-    "numeric": "051"
+    "status": "assigned"
   },
   {
     "alpha2": "AN",
     "alpha3": "ANT",
+    "numeric": "",
     "countryCallingCodes": [],
     "currencies": [],
     "ioc": "",
     "languages": [],
     "name": "Netherlands Antilles",
-    "status": "deleted",
-    "numeric": ""
+    "status": "deleted"
   },
   {
     "alpha2": "AO",
     "alpha3": "AGO",
+    "numeric": "024",
     "countryCallingCodes": [
       "+244"
     ],
@@ -181,12 +182,12 @@
       "por"
     ],
     "name": "Angola",
-    "status": "assigned",
-    "numeric": "024"
+    "status": "assigned"
   },
   {
     "alpha2": "AQ",
     "alpha3": "ATA",
+    "numeric": "010",
     "countryCallingCodes": [
       "+672"
     ],
@@ -195,12 +196,12 @@
     "ioc": "",
     "languages": [],
     "name": "Antarctica",
-    "status": "assigned",
-    "numeric": "010"
+    "status": "assigned"
   },
   {
     "alpha2": "AR",
     "alpha3": "ARG",
+    "numeric": "032",
     "countryCallingCodes": [
       "+54"
     ],
@@ -213,12 +214,12 @@
       "spa"
     ],
     "name": "Argentina",
-    "status": "assigned",
-    "numeric": "032"
+    "status": "assigned"
   },
   {
     "alpha2": "AS",
     "alpha3": "ASM",
+    "numeric": "016",
     "countryCallingCodes": [
       "+1 684"
     ],
@@ -232,12 +233,12 @@
       "smo"
     ],
     "name": "American Samoa",
-    "status": "assigned",
-    "numeric": "016"
+    "status": "assigned"
   },
   {
     "alpha2": "AT",
     "alpha3": "AUT",
+    "numeric": "040",
     "countryCallingCodes": [
       "+43"
     ],
@@ -250,12 +251,12 @@
       "deu"
     ],
     "name": "Austria",
-    "status": "assigned",
-    "numeric": "040"
+    "status": "assigned"
   },
   {
     "alpha2": "AU",
     "alpha3": "AUS",
+    "numeric": "036",
     "countryCallingCodes": [
       "+61"
     ],
@@ -268,12 +269,12 @@
       "eng"
     ],
     "name": "Australia",
-    "status": "assigned",
-    "numeric": "036"
+    "status": "assigned"
   },
   {
     "alpha2": "AW",
     "alpha3": "ABW",
+    "numeric": "533",
     "countryCallingCodes": [
       "+297"
     ],
@@ -286,12 +287,12 @@
       "nld"
     ],
     "name": "Aruba",
-    "status": "assigned",
-    "numeric": "533"
+    "status": "assigned"
   },
   {
     "alpha2": "AX",
     "alpha3": "ALA",
+    "numeric": "248",
     "countryCallingCodes": [
       "+358"
     ],
@@ -304,12 +305,12 @@
       "swe"
     ],
     "name": "Åland Islands",
-    "status": "assigned",
-    "numeric": "248"
+    "status": "assigned"
   },
   {
     "alpha2": "AZ",
     "alpha3": "AZE",
+    "numeric": "031",
     "countryCallingCodes": [
       "+994"
     ],
@@ -322,12 +323,12 @@
       "aze"
     ],
     "name": "Azerbaijan",
-    "status": "assigned",
-    "numeric": "031"
+    "status": "assigned"
   },
   {
     "alpha2": "BA",
     "alpha3": "BIH",
+    "numeric": "070",
     "countryCallingCodes": [
       "+387"
     ],
@@ -342,12 +343,12 @@
       "srp"
     ],
     "name": "Bosnia & Herzegovina",
-    "status": "assigned",
-    "numeric": "070"
+    "status": "assigned"
   },
   {
     "alpha2": "BB",
     "alpha3": "BRB",
+    "numeric": "052",
     "countryCallingCodes": [
       "+1 246"
     ],
@@ -360,12 +361,12 @@
       "eng"
     ],
     "name": "Barbados",
-    "status": "assigned",
-    "numeric": "052"
+    "status": "assigned"
   },
   {
     "alpha2": "BD",
     "alpha3": "BGD",
+    "numeric": "050",
     "countryCallingCodes": [
       "+880"
     ],
@@ -378,12 +379,12 @@
       "ben"
     ],
     "name": "Bangladesh",
-    "status": "assigned",
-    "numeric": "050"
+    "status": "assigned"
   },
   {
     "alpha2": "BE",
     "alpha3": "BEL",
+    "numeric": "056",
     "countryCallingCodes": [
       "+32"
     ],
@@ -398,12 +399,12 @@
       "deu"
     ],
     "name": "Belgium",
-    "status": "assigned",
-    "numeric": "056"
+    "status": "assigned"
   },
   {
     "alpha2": "BF",
     "alpha3": "BFA",
+    "numeric": "854",
     "countryCallingCodes": [
       "+226"
     ],
@@ -416,12 +417,12 @@
       "fra"
     ],
     "name": "Burkina Faso",
-    "status": "assigned",
-    "numeric": "854"
+    "status": "assigned"
   },
   {
     "alpha2": "BG",
     "alpha3": "BGR",
+    "numeric": "100",
     "countryCallingCodes": [
       "+359"
     ],
@@ -434,12 +435,12 @@
       "bul"
     ],
     "name": "Bulgaria",
-    "status": "assigned",
-    "numeric": "100"
+    "status": "assigned"
   },
   {
     "alpha2": "BH",
     "alpha3": "BHR",
+    "numeric": "048",
     "countryCallingCodes": [
       "+973"
     ],
@@ -452,12 +453,12 @@
       "ara"
     ],
     "name": "Bahrain",
-    "status": "assigned",
-    "numeric": "048"
+    "status": "assigned"
   },
   {
     "alpha2": "BI",
     "alpha3": "BDI",
+    "numeric": "108",
     "countryCallingCodes": [
       "+257"
     ],
@@ -470,12 +471,12 @@
       "fra"
     ],
     "name": "Burundi",
-    "status": "assigned",
-    "numeric": "108"
+    "status": "assigned"
   },
   {
     "alpha2": "BJ",
     "alpha3": "BEN",
+    "numeric": "204",
     "countryCallingCodes": [
       "+229"
     ],
@@ -488,12 +489,12 @@
       "fra"
     ],
     "name": "Benin",
-    "status": "assigned",
-    "numeric": "204"
+    "status": "assigned"
   },
   {
     "alpha2": "BL",
     "alpha3": "BLM",
+    "numeric": "652",
     "countryCallingCodes": [
       "+590"
     ],
@@ -506,12 +507,12 @@
       "fra"
     ],
     "name": "Saint Barthélemy",
-    "status": "assigned",
-    "numeric": "652"
+    "status": "assigned"
   },
   {
     "alpha2": "BM",
     "alpha3": "BMU",
+    "numeric": "060",
     "countryCallingCodes": [
       "+1 441"
     ],
@@ -524,12 +525,12 @@
       "eng"
     ],
     "name": "Bermuda",
-    "status": "assigned",
-    "numeric": "060"
+    "status": "assigned"
   },
   {
     "alpha2": "BN",
     "alpha3": "BRN",
+    "numeric": "096",
     "countryCallingCodes": [
       "+673"
     ],
@@ -543,12 +544,12 @@
       "eng"
     ],
     "name": "Brunei Darussalam",
-    "status": "assigned",
-    "numeric": "096"
+    "status": "assigned"
   },
   {
     "alpha2": "BO",
     "alpha3": "BOL",
+    "numeric": "068",
     "countryCallingCodes": [
       "+591"
     ],
@@ -564,12 +565,12 @@
       "que"
     ],
     "name": "Bolivia, Plurinational State Of",
-    "status": "assigned",
-    "numeric": "068"
+    "status": "assigned"
   },
   {
     "alpha2": "BQ",
     "alpha3": "BES",
+    "numeric": "535",
     "countryCallingCodes": [
       "+599"
     ],
@@ -582,23 +583,23 @@
       "nld"
     ],
     "name": "Bonaire, Saint Eustatius And Saba",
-    "status": "assigned",
-    "numeric": "535"
+    "status": "assigned"
   },
   {
     "alpha2": "BQ",
     "alpha3": "ATB",
+    "numeric": "535",
     "countryCallingCodes": [],
     "currencies": [],
     "ioc": "",
     "languages": [],
     "name": "British Antarctic Territory",
-    "status": "deleted",
-    "numeric": "535"
+    "status": "deleted"
   },
   {
     "alpha2": "BR",
     "alpha3": "BRA",
+    "numeric": "076",
     "countryCallingCodes": [
       "+55"
     ],
@@ -611,12 +612,12 @@
       "por"
     ],
     "name": "Brazil",
-    "status": "assigned",
-    "numeric": "076"
+    "status": "assigned"
   },
   {
     "alpha2": "BS",
     "alpha3": "BHS",
+    "numeric": "044",
     "countryCallingCodes": [
       "+1 242"
     ],
@@ -629,12 +630,12 @@
       "eng"
     ],
     "name": "Bahamas",
-    "status": "assigned",
-    "numeric": "044"
+    "status": "assigned"
   },
   {
     "alpha2": "BT",
     "alpha3": "BTN",
+    "numeric": "064",
     "countryCallingCodes": [
       "+975"
     ],
@@ -648,23 +649,23 @@
       "dzo"
     ],
     "name": "Bhutan",
-    "status": "assigned",
-    "numeric": "064"
+    "status": "assigned"
   },
   {
     "alpha2": "BU",
     "alpha3": "BUR",
+    "numeric": "",
     "countryCallingCodes": [],
     "currencies": [],
     "ioc": "",
     "languages": [],
     "name": "Burma",
-    "status": "deleted",
-    "numeric": ""
+    "status": "deleted"
   },
   {
     "alpha2": "BV",
     "alpha3": "BVT",
+    "numeric": "074",
     "countryCallingCodes": [],
     "currencies": [
       "NOK"
@@ -673,12 +674,12 @@
     "ioc": "",
     "languages": [],
     "name": "Bouvet Island",
-    "status": "assigned",
-    "numeric": "074"
+    "status": "assigned"
   },
   {
     "alpha2": "BW",
     "alpha3": "BWA",
+    "numeric": "072",
     "countryCallingCodes": [
       "+267"
     ],
@@ -692,12 +693,12 @@
       "tsn"
     ],
     "name": "Botswana",
-    "status": "assigned",
-    "numeric": "072"
+    "status": "assigned"
   },
   {
     "alpha2": "BY",
     "alpha3": "BLR",
+    "numeric": "112",
     "countryCallingCodes": [
       "+375"
     ],
@@ -711,23 +712,23 @@
       "rus"
     ],
     "name": "Belarus",
-    "status": "assigned",
-    "numeric": "112"
+    "status": "assigned"
   },
   {
     "alpha2": "BY",
     "alpha3": "BYS",
+    "numeric": "112",
     "countryCallingCodes": [],
     "currencies": [],
     "ioc": "",
     "languages": [],
     "name": "Byelorussian SSR",
-    "status": "deleted",
-    "numeric": "112"
+    "status": "deleted"
   },
   {
     "alpha2": "BZ",
     "alpha3": "BLZ",
+    "numeric": "084",
     "countryCallingCodes": [
       "+501"
     ],
@@ -740,12 +741,12 @@
       "eng"
     ],
     "name": "Belize",
-    "status": "assigned",
-    "numeric": "084"
+    "status": "assigned"
   },
   {
     "alpha2": "CA",
     "alpha3": "CAN",
+    "numeric": "124",
     "countryCallingCodes": [
       "+1"
     ],
@@ -759,12 +760,12 @@
       "fra"
     ],
     "name": "Canada",
-    "status": "assigned",
-    "numeric": "124"
+    "status": "assigned"
   },
   {
     "alpha2": "CC",
     "alpha3": "CCK",
+    "numeric": "166",
     "countryCallingCodes": [
       "+61"
     ],
@@ -777,12 +778,12 @@
       "eng"
     ],
     "name": "Cocos (Keeling) Islands",
-    "status": "assigned",
-    "numeric": "166"
+    "status": "assigned"
   },
   {
     "alpha2": "CD",
     "alpha3": "COD",
+    "numeric": "180",
     "countryCallingCodes": [
       "+243"
     ],
@@ -798,12 +799,12 @@
       "swa"
     ],
     "name": "Democratic Republic Of Congo",
-    "status": "assigned",
-    "numeric": "180"
+    "status": "assigned"
   },
   {
     "alpha2": "CF",
     "alpha3": "CAF",
+    "numeric": "140",
     "countryCallingCodes": [
       "+236"
     ],
@@ -817,12 +818,12 @@
       "sag"
     ],
     "name": "Central African Republic",
-    "status": "assigned",
-    "numeric": "140"
+    "status": "assigned"
   },
   {
     "alpha2": "CG",
     "alpha3": "COG",
+    "numeric": "178",
     "countryCallingCodes": [
       "+242"
     ],
@@ -836,12 +837,12 @@
       "lin"
     ],
     "name": "Republic Of Congo",
-    "status": "assigned",
-    "numeric": "178"
+    "status": "assigned"
   },
   {
     "alpha2": "CH",
     "alpha3": "CHE",
+    "numeric": "756",
     "countryCallingCodes": [
       "+41"
     ],
@@ -859,12 +860,12 @@
       "roh"
     ],
     "name": "Switzerland",
-    "status": "assigned",
-    "numeric": "756"
+    "status": "assigned"
   },
   {
     "alpha2": "CI",
     "alpha3": "CIV",
+    "numeric": "384",
     "countryCallingCodes": [
       "+225"
     ],
@@ -877,12 +878,12 @@
       "fra"
     ],
     "name": "Côte d'Ivoire",
-    "status": "assigned",
-    "numeric": "384"
+    "status": "assigned"
   },
   {
     "alpha2": "CK",
     "alpha3": "COK",
+    "numeric": "184",
     "countryCallingCodes": [
       "+682"
     ],
@@ -896,12 +897,12 @@
       "mri"
     ],
     "name": "Cook Islands",
-    "status": "assigned",
-    "numeric": "184"
+    "status": "assigned"
   },
   {
     "alpha2": "CL",
     "alpha3": "CHL",
+    "numeric": "152",
     "countryCallingCodes": [
       "+56"
     ],
@@ -915,12 +916,12 @@
       "spa"
     ],
     "name": "Chile",
-    "status": "assigned",
-    "numeric": "152"
+    "status": "assigned"
   },
   {
     "alpha2": "CM",
     "alpha3": "CMR",
+    "numeric": "120",
     "countryCallingCodes": [
       "+237"
     ],
@@ -934,12 +935,12 @@
       "fra"
     ],
     "name": "Cameroon",
-    "status": "assigned",
-    "numeric": "120"
+    "status": "assigned"
   },
   {
     "alpha2": "CN",
     "alpha3": "CHN",
+    "numeric": "156",
     "countryCallingCodes": [
       "+86"
     ],
@@ -952,12 +953,12 @@
       "zho"
     ],
     "name": "China",
-    "status": "assigned",
-    "numeric": "156"
+    "status": "assigned"
   },
   {
     "alpha2": "CO",
     "alpha3": "COL",
+    "numeric": "170",
     "countryCallingCodes": [
       "+57"
     ],
@@ -971,12 +972,12 @@
       "spa"
     ],
     "name": "Colombia",
-    "status": "assigned",
-    "numeric": "170"
+    "status": "assigned"
   },
   {
     "alpha2": "CP",
     "alpha3": "",
+    "numeric": "",
     "countryCallingCodes": [],
     "currencies": [
       "EUR"
@@ -985,12 +986,12 @@
     "ioc": "",
     "languages": [],
     "name": "Clipperton Island",
-    "status": "reserved",
-    "numeric": ""
+    "status": "reserved"
   },
   {
     "alpha2": "CR",
     "alpha3": "CRI",
+    "numeric": "188",
     "countryCallingCodes": [
       "+506"
     ],
@@ -1003,45 +1004,45 @@
       "spa"
     ],
     "name": "Costa Rica",
-    "status": "assigned",
-    "numeric": "188"
+    "status": "assigned"
   },
   {
     "alpha2": "CS",
     "alpha3": "CSK",
+    "numeric": "",
     "countryCallingCodes": [],
     "currencies": [],
     "ioc": "",
     "languages": [],
     "name": "Czechoslovakia",
-    "status": "deleted",
-    "numeric": ""
+    "status": "deleted"
   },
   {
     "alpha2": "CS",
     "alpha3": "SCG",
+    "numeric": "",
     "countryCallingCodes": [],
     "currencies": [],
     "ioc": "",
     "languages": [],
     "name": "Serbia and Montenegro",
-    "status": "deleted",
-    "numeric": ""
+    "status": "deleted"
   },
   {
     "alpha2": "CT",
     "alpha3": "CTE",
+    "numeric": "",
     "countryCallingCodes": [],
     "currencies": [],
     "ioc": "",
     "languages": [],
     "name": "Canton and Enderbury Islands",
-    "status": "deleted",
-    "numeric": ""
+    "status": "deleted"
   },
   {
     "alpha2": "CU",
     "alpha3": "CUB",
+    "numeric": "192",
     "countryCallingCodes": [
       "+53"
     ],
@@ -1055,12 +1056,12 @@
       "spa"
     ],
     "name": "Cuba",
-    "status": "assigned",
-    "numeric": "192"
+    "status": "assigned"
   },
   {
     "alpha2": "CV",
     "alpha3": "CPV",
+    "numeric": "132",
     "countryCallingCodes": [
       "+238"
     ],
@@ -1073,12 +1074,12 @@
       "por"
     ],
     "name": "Cabo Verde",
-    "status": "assigned",
-    "numeric": "132"
+    "status": "assigned"
   },
   {
     "alpha2": "CW",
     "alpha3": "CUW",
+    "numeric": "531",
     "countryCallingCodes": [
       "+599"
     ],
@@ -1091,12 +1092,12 @@
       "nld"
     ],
     "name": "Curacao",
-    "status": "assigned",
-    "numeric": "531"
+    "status": "assigned"
   },
   {
     "alpha2": "CX",
     "alpha3": "CXR",
+    "numeric": "162",
     "countryCallingCodes": [
       "+61"
     ],
@@ -1109,12 +1110,12 @@
       "eng"
     ],
     "name": "Christmas Island",
-    "status": "assigned",
-    "numeric": "162"
+    "status": "assigned"
   },
   {
     "alpha2": "CY",
     "alpha3": "CYP",
+    "numeric": "196",
     "countryCallingCodes": [
       "+357"
     ],
@@ -1128,12 +1129,12 @@
       "tur"
     ],
     "name": "Cyprus",
-    "status": "assigned",
-    "numeric": "196"
+    "status": "assigned"
   },
   {
     "alpha2": "CZ",
     "alpha3": "CZE",
+    "numeric": "203",
     "countryCallingCodes": [
       "+420"
     ],
@@ -1146,23 +1147,23 @@
       "ces"
     ],
     "name": "Czech Republic",
-    "status": "assigned",
-    "numeric": "203"
+    "status": "assigned"
   },
   {
     "alpha2": "DD",
     "alpha3": "DDR",
+    "numeric": "",
     "countryCallingCodes": [],
     "currencies": [],
     "ioc": "",
     "languages": [],
     "name": "German Democratic Republic",
-    "status": "deleted",
-    "numeric": ""
+    "status": "deleted"
   },
   {
     "alpha2": "DE",
     "alpha3": "DEU",
+    "numeric": "276",
     "countryCallingCodes": [
       "+49"
     ],
@@ -1175,12 +1176,12 @@
       "deu"
     ],
     "name": "Germany",
-    "status": "assigned",
-    "numeric": "276"
+    "status": "assigned"
   },
   {
     "alpha2": "DG",
     "alpha3": "",
+    "numeric": "",
     "countryCallingCodes": [],
     "currencies": [
       "USD"
@@ -1189,12 +1190,12 @@
     "ioc": "",
     "languages": [],
     "name": "Diego Garcia",
-    "status": "reserved",
-    "numeric": ""
+    "status": "reserved"
   },
   {
     "alpha2": "DJ",
     "alpha3": "DJI",
+    "numeric": "262",
     "countryCallingCodes": [
       "+253"
     ],
@@ -1208,12 +1209,12 @@
       "fra"
     ],
     "name": "Djibouti",
-    "status": "assigned",
-    "numeric": "262"
+    "status": "assigned"
   },
   {
     "alpha2": "DK",
     "alpha3": "DNK",
+    "numeric": "208",
     "countryCallingCodes": [
       "+45"
     ],
@@ -1226,12 +1227,12 @@
       "dan"
     ],
     "name": "Denmark",
-    "status": "assigned",
-    "numeric": "208"
+    "status": "assigned"
   },
   {
     "alpha2": "DM",
     "alpha3": "DMA",
+    "numeric": "212",
     "countryCallingCodes": [
       "+1 767"
     ],
@@ -1244,12 +1245,12 @@
       "eng"
     ],
     "name": "Dominica",
-    "status": "assigned",
-    "numeric": "212"
+    "status": "assigned"
   },
   {
     "alpha2": "DO",
     "alpha3": "DOM",
+    "numeric": "214",
     "countryCallingCodes": [
       "+1 809",
       "+1 829",
@@ -1264,23 +1265,23 @@
       "spa"
     ],
     "name": "Dominican Republic",
-    "status": "assigned",
-    "numeric": "214"
+    "status": "assigned"
   },
   {
     "alpha2": "DY",
     "alpha3": "DHY",
+    "numeric": "",
     "countryCallingCodes": [],
     "currencies": [],
     "ioc": "",
     "languages": [],
     "name": "Dahomey",
-    "status": "deleted",
-    "numeric": ""
+    "status": "deleted"
   },
   {
     "alpha2": "DZ",
     "alpha3": "DZA",
+    "numeric": "012",
     "countryCallingCodes": [
       "+213"
     ],
@@ -1293,12 +1294,12 @@
       "ara"
     ],
     "name": "Algeria",
-    "status": "assigned",
-    "numeric": "012"
+    "status": "assigned"
   },
   {
     "alpha2": "EA",
     "alpha3": "",
+    "numeric": "",
     "countryCallingCodes": [],
     "currencies": [
       "EUR"
@@ -1307,12 +1308,12 @@
     "ioc": "",
     "languages": [],
     "name": "Ceuta, Mulilla",
-    "status": "reserved",
-    "numeric": ""
+    "status": "reserved"
   },
   {
     "alpha2": "EC",
     "alpha3": "ECU",
+    "numeric": "218",
     "countryCallingCodes": [
       "+593"
     ],
@@ -1326,12 +1327,12 @@
       "que"
     ],
     "name": "Ecuador",
-    "status": "assigned",
-    "numeric": "218"
+    "status": "assigned"
   },
   {
     "alpha2": "EE",
     "alpha3": "EST",
+    "numeric": "233",
     "countryCallingCodes": [
       "+372"
     ],
@@ -1344,12 +1345,12 @@
       "est"
     ],
     "name": "Estonia",
-    "status": "assigned",
-    "numeric": "233"
+    "status": "assigned"
   },
   {
     "alpha2": "EG",
     "alpha3": "EGY",
+    "numeric": "818",
     "countryCallingCodes": [
       "+20"
     ],
@@ -1362,12 +1363,12 @@
       "ara"
     ],
     "name": "Egypt",
-    "status": "assigned",
-    "numeric": "818"
+    "status": "assigned"
   },
   {
     "alpha2": "EH",
     "alpha3": "ESH",
+    "numeric": "732",
     "countryCallingCodes": [
       "+212"
     ],
@@ -1378,12 +1379,12 @@
     "ioc": "",
     "languages": [],
     "name": "Western Sahara",
-    "status": "assigned",
-    "numeric": "732"
+    "status": "assigned"
   },
   {
     "alpha2": "ER",
     "alpha3": "ERI",
+    "numeric": "232",
     "countryCallingCodes": [
       "+291"
     ],
@@ -1398,12 +1399,12 @@
       "tir"
     ],
     "name": "Eritrea",
-    "status": "assigned",
-    "numeric": "232"
+    "status": "assigned"
   },
   {
     "alpha2": "ES",
     "alpha3": "ESP",
+    "numeric": "724",
     "countryCallingCodes": [
       "+34"
     ],
@@ -1416,12 +1417,12 @@
       "spa"
     ],
     "name": "Spain",
-    "status": "assigned",
-    "numeric": "724"
+    "status": "assigned"
   },
   {
     "alpha2": "ET",
     "alpha3": "ETH",
+    "numeric": "231",
     "countryCallingCodes": [
       "+251"
     ],
@@ -1434,12 +1435,12 @@
       "amh"
     ],
     "name": "Ethiopia",
-    "status": "assigned",
-    "numeric": "231"
+    "status": "assigned"
   },
   {
     "alpha2": "EU",
     "alpha3": "",
+    "numeric": "",
     "countryCallingCodes": [
       "+388"
     ],
@@ -1450,12 +1451,12 @@
     "ioc": "",
     "languages": [],
     "name": "European Union",
-    "status": "reserved",
-    "numeric": ""
+    "status": "reserved"
   },
   {
     "alpha2": "FI",
     "alpha3": "FIN",
+    "numeric": "246",
     "countryCallingCodes": [
       "+358"
     ],
@@ -1469,12 +1470,12 @@
       "swe"
     ],
     "name": "Finland",
-    "status": "assigned",
-    "numeric": "246"
+    "status": "assigned"
   },
   {
     "alpha2": "FJ",
     "alpha3": "FJI",
+    "numeric": "242",
     "countryCallingCodes": [
       "+679"
     ],
@@ -1488,12 +1489,12 @@
       "fij"
     ],
     "name": "Fiji",
-    "status": "assigned",
-    "numeric": "242"
+    "status": "assigned"
   },
   {
     "alpha2": "FK",
     "alpha3": "FLK",
+    "numeric": "238",
     "countryCallingCodes": [
       "+500"
     ],
@@ -1506,12 +1507,12 @@
       "eng"
     ],
     "name": "Falkland Islands",
-    "status": "assigned",
-    "numeric": "238"
+    "status": "assigned"
   },
   {
     "alpha2": "FM",
     "alpha3": "FSM",
+    "numeric": "583",
     "countryCallingCodes": [
       "+691"
     ],
@@ -1524,12 +1525,12 @@
       "eng"
     ],
     "name": "Micronesia, Federated States Of",
-    "status": "assigned",
-    "numeric": "583"
+    "status": "assigned"
   },
   {
     "alpha2": "FO",
     "alpha3": "FRO",
+    "numeric": "234",
     "countryCallingCodes": [
       "+298"
     ],
@@ -1543,23 +1544,23 @@
       "dan"
     ],
     "name": "Faroe Islands",
-    "status": "assigned",
-    "numeric": "234"
+    "status": "assigned"
   },
   {
     "alpha2": "FQ",
     "alpha3": "ATF",
+    "numeric": "",
     "countryCallingCodes": [],
     "currencies": [],
     "ioc": "",
     "languages": [],
     "name": "French Southern and Antarctic Territories",
-    "status": "deleted",
-    "numeric": ""
+    "status": "deleted"
   },
   {
     "alpha2": "FR",
     "alpha3": "FRA",
+    "numeric": "250",
     "countryCallingCodes": [
       "+33"
     ],
@@ -1572,12 +1573,12 @@
       "fra"
     ],
     "name": "France",
-    "status": "assigned",
-    "numeric": "250"
+    "status": "assigned"
   },
   {
     "alpha2": "FX",
     "alpha3": "",
+    "numeric": "",
     "countryCallingCodes": [
       "+241"
     ],
@@ -1590,12 +1591,12 @@
       "fra"
     ],
     "name": "France, Metropolitan",
-    "status": "reserved",
-    "numeric": ""
+    "status": "reserved"
   },
   {
     "alpha2": "GA",
     "alpha3": "GAB",
+    "numeric": "266",
     "countryCallingCodes": [
       "+241"
     ],
@@ -1608,12 +1609,12 @@
       "fra"
     ],
     "name": "Gabon",
-    "status": "assigned",
-    "numeric": "266"
+    "status": "assigned"
   },
   {
     "alpha2": "GB",
     "alpha3": "GBR",
+    "numeric": "826",
     "countryCallingCodes": [
       "+44"
     ],
@@ -1630,12 +1631,12 @@
       "cym"
     ],
     "name": "United Kingdom",
-    "status": "assigned",
-    "numeric": "826"
+    "status": "assigned"
   },
   {
     "alpha2": "GD",
     "alpha3": "GRD",
+    "numeric": "308",
     "countryCallingCodes": [
       "+473"
     ],
@@ -1648,12 +1649,12 @@
       "eng"
     ],
     "name": "Grenada",
-    "status": "assigned",
-    "numeric": "308"
+    "status": "assigned"
   },
   {
     "alpha2": "GE",
     "alpha3": "GEO",
+    "numeric": "268",
     "countryCallingCodes": [
       "+995"
     ],
@@ -1666,23 +1667,23 @@
       "kat"
     ],
     "name": "Georgia",
-    "status": "assigned",
-    "numeric": "268"
+    "status": "assigned"
   },
   {
     "alpha2": "GE",
     "alpha3": "GEL",
+    "numeric": "268",
     "countryCallingCodes": [],
     "currencies": [],
     "ioc": "",
     "languages": [],
     "name": "Gilbert and Ellice Islands",
-    "status": "deleted",
-    "numeric": "268"
+    "status": "deleted"
   },
   {
     "alpha2": "GF",
     "alpha3": "GUF",
+    "numeric": "254",
     "countryCallingCodes": [
       "+594"
     ],
@@ -1695,12 +1696,12 @@
       "fra"
     ],
     "name": "French Guiana",
-    "status": "assigned",
-    "numeric": "254"
+    "status": "assigned"
   },
   {
     "alpha2": "GG",
     "alpha3": "GGY",
+    "numeric": "831",
     "countryCallingCodes": [
       "+44"
     ],
@@ -1713,12 +1714,12 @@
       "fra"
     ],
     "name": "Guernsey",
-    "status": "assigned",
-    "numeric": "831"
+    "status": "assigned"
   },
   {
     "alpha2": "GH",
     "alpha3": "GHA",
+    "numeric": "288",
     "countryCallingCodes": [
       "+233"
     ],
@@ -1731,12 +1732,12 @@
       "eng"
     ],
     "name": "Ghana",
-    "status": "assigned",
-    "numeric": "288"
+    "status": "assigned"
   },
   {
     "alpha2": "GI",
     "alpha3": "GIB",
+    "numeric": "292",
     "countryCallingCodes": [
       "+350"
     ],
@@ -1749,12 +1750,12 @@
       "eng"
     ],
     "name": "Gibraltar",
-    "status": "assigned",
-    "numeric": "292"
+    "status": "assigned"
   },
   {
     "alpha2": "GL",
     "alpha3": "GRL",
+    "numeric": "304",
     "countryCallingCodes": [
       "+299"
     ],
@@ -1767,12 +1768,12 @@
       "kal"
     ],
     "name": "Greenland",
-    "status": "assigned",
-    "numeric": "304"
+    "status": "assigned"
   },
   {
     "alpha2": "GM",
     "alpha3": "GMB",
+    "numeric": "270",
     "countryCallingCodes": [
       "+220"
     ],
@@ -1785,12 +1786,12 @@
       "eng"
     ],
     "name": "Gambia",
-    "status": "assigned",
-    "numeric": "270"
+    "status": "assigned"
   },
   {
     "alpha2": "GN",
     "alpha3": "GIN",
+    "numeric": "324",
     "countryCallingCodes": [
       "+224"
     ],
@@ -1803,12 +1804,12 @@
       "fra"
     ],
     "name": "Guinea",
-    "status": "assigned",
-    "numeric": "324"
+    "status": "assigned"
   },
   {
     "alpha2": "GP",
     "alpha3": "GLP",
+    "numeric": "312",
     "countryCallingCodes": [
       "+590"
     ],
@@ -1821,12 +1822,12 @@
       "fra"
     ],
     "name": "Guadeloupe",
-    "status": "assigned",
-    "numeric": "312"
+    "status": "assigned"
   },
   {
     "alpha2": "GQ",
     "alpha3": "GNQ",
+    "numeric": "226",
     "countryCallingCodes": [
       "+240"
     ],
@@ -1841,12 +1842,12 @@
       "por"
     ],
     "name": "Equatorial Guinea",
-    "status": "assigned",
-    "numeric": "226"
+    "status": "assigned"
   },
   {
     "alpha2": "GR",
     "alpha3": "GRC",
+    "numeric": "300",
     "countryCallingCodes": [
       "+30"
     ],
@@ -1859,12 +1860,12 @@
       "ell"
     ],
     "name": "Greece",
-    "status": "assigned",
-    "numeric": "300"
+    "status": "assigned"
   },
   {
     "alpha2": "GS",
     "alpha3": "SGS",
+    "numeric": "239",
     "countryCallingCodes": [],
     "currencies": [
       "GBP"
@@ -1875,12 +1876,12 @@
       "eng"
     ],
     "name": "South Georgia And The South Sandwich Islands",
-    "status": "assigned",
-    "numeric": "239"
+    "status": "assigned"
   },
   {
     "alpha2": "GT",
     "alpha3": "GTM",
+    "numeric": "320",
     "countryCallingCodes": [
       "+502"
     ],
@@ -1893,12 +1894,12 @@
       "spa"
     ],
     "name": "Guatemala",
-    "status": "assigned",
-    "numeric": "320"
+    "status": "assigned"
   },
   {
     "alpha2": "GU",
     "alpha3": "GUM",
+    "numeric": "316",
     "countryCallingCodes": [
       "+1 671"
     ],
@@ -1911,12 +1912,12 @@
       "eng"
     ],
     "name": "Guam",
-    "status": "assigned",
-    "numeric": "316"
+    "status": "assigned"
   },
   {
     "alpha2": "GW",
     "alpha3": "GNB",
+    "numeric": "624",
     "countryCallingCodes": [
       "+245"
     ],
@@ -1929,12 +1930,12 @@
       "por"
     ],
     "name": "Guinea-bissau",
-    "status": "assigned",
-    "numeric": "624"
+    "status": "assigned"
   },
   {
     "alpha2": "GY",
     "alpha3": "GUY",
+    "numeric": "328",
     "countryCallingCodes": [
       "+592"
     ],
@@ -1947,12 +1948,12 @@
       "eng"
     ],
     "name": "Guyana",
-    "status": "assigned",
-    "numeric": "328"
+    "status": "assigned"
   },
   {
     "alpha2": "HK",
     "alpha3": "HKG",
+    "numeric": "344",
     "countryCallingCodes": [
       "+852"
     ],
@@ -1966,12 +1967,12 @@
       "eng"
     ],
     "name": "Hong Kong",
-    "status": "assigned",
-    "numeric": "344"
+    "status": "assigned"
   },
   {
     "alpha2": "HM",
     "alpha3": "HMD",
+    "numeric": "334",
     "countryCallingCodes": [],
     "currencies": [
       "AUD"
@@ -1980,12 +1981,12 @@
     "ioc": "",
     "languages": [],
     "name": "Heard Island And McDonald Islands",
-    "status": "assigned",
-    "numeric": "334"
+    "status": "assigned"
   },
   {
     "alpha2": "HN",
     "alpha3": "HND",
+    "numeric": "340",
     "countryCallingCodes": [
       "+504"
     ],
@@ -1998,12 +1999,12 @@
       "spa"
     ],
     "name": "Honduras",
-    "status": "assigned",
-    "numeric": "340"
+    "status": "assigned"
   },
   {
     "alpha2": "HR",
     "alpha3": "HRV",
+    "numeric": "191",
     "countryCallingCodes": [
       "+385"
     ],
@@ -2016,12 +2017,12 @@
       "hrv"
     ],
     "name": "Croatia",
-    "status": "assigned",
-    "numeric": "191"
+    "status": "assigned"
   },
   {
     "alpha2": "HT",
     "alpha3": "HTI",
+    "numeric": "332",
     "countryCallingCodes": [
       "+509"
     ],
@@ -2036,12 +2037,12 @@
       "hat"
     ],
     "name": "Haiti",
-    "status": "assigned",
-    "numeric": "332"
+    "status": "assigned"
   },
   {
     "alpha2": "HU",
     "alpha3": "HUN",
+    "numeric": "348",
     "countryCallingCodes": [
       "+36"
     ],
@@ -2054,23 +2055,23 @@
       "hun"
     ],
     "name": "Hungary",
-    "status": "assigned",
-    "numeric": "348"
+    "status": "assigned"
   },
   {
     "alpha2": "HV",
     "alpha3": "HVO",
+    "numeric": "",
     "countryCallingCodes": [],
     "currencies": [],
     "ioc": "",
     "languages": [],
     "name": "Upper Volta",
-    "status": "deleted",
-    "numeric": ""
+    "status": "deleted"
   },
   {
     "alpha2": "IC",
     "alpha3": "",
+    "numeric": "",
     "countryCallingCodes": [],
     "currencies": [
       "EUR"
@@ -2079,12 +2080,12 @@
     "ioc": "",
     "languages": [],
     "name": "Canary Islands",
-    "status": "reserved",
-    "numeric": ""
+    "status": "reserved"
   },
   {
     "alpha2": "ID",
     "alpha3": "IDN",
+    "numeric": "360",
     "countryCallingCodes": [
       "+62"
     ],
@@ -2097,12 +2098,12 @@
       "ind"
     ],
     "name": "Indonesia",
-    "status": "assigned",
-    "numeric": "360"
+    "status": "assigned"
   },
   {
     "alpha2": "IE",
     "alpha3": "IRL",
+    "numeric": "372",
     "countryCallingCodes": [
       "+353"
     ],
@@ -2116,12 +2117,12 @@
       "gle"
     ],
     "name": "Ireland",
-    "status": "assigned",
-    "numeric": "372"
+    "status": "assigned"
   },
   {
     "alpha2": "IL",
     "alpha3": "ISR",
+    "numeric": "376",
     "countryCallingCodes": [
       "+972"
     ],
@@ -2136,12 +2137,12 @@
       "eng"
     ],
     "name": "Israel",
-    "status": "assigned",
-    "numeric": "376"
+    "status": "assigned"
   },
   {
     "alpha2": "IM",
     "alpha3": "IMN",
+    "numeric": "833",
     "countryCallingCodes": [
       "+44"
     ],
@@ -2155,12 +2156,12 @@
       "glv"
     ],
     "name": "Isle Of Man",
-    "status": "assigned",
-    "numeric": "833"
+    "status": "assigned"
   },
   {
     "alpha2": "IN",
     "alpha3": "IND",
+    "numeric": "356",
     "countryCallingCodes": [
       "+91"
     ],
@@ -2174,12 +2175,12 @@
       "hin"
     ],
     "name": "India",
-    "status": "assigned",
-    "numeric": "356"
+    "status": "assigned"
   },
   {
     "alpha2": "IO",
     "alpha3": "IOT",
+    "numeric": "086",
     "countryCallingCodes": [
       "+246"
     ],
@@ -2192,12 +2193,12 @@
       "eng"
     ],
     "name": "British Indian Ocean Territory",
-    "status": "assigned",
-    "numeric": "086"
+    "status": "assigned"
   },
   {
     "alpha2": "IQ",
     "alpha3": "IRQ",
+    "numeric": "368",
     "countryCallingCodes": [
       "+964"
     ],
@@ -2211,12 +2212,12 @@
       "kur"
     ],
     "name": "Iraq",
-    "status": "assigned",
-    "numeric": "368"
+    "status": "assigned"
   },
   {
     "alpha2": "IR",
     "alpha3": "IRN",
+    "numeric": "364",
     "countryCallingCodes": [
       "+98"
     ],
@@ -2229,12 +2230,12 @@
       "fas"
     ],
     "name": "Iran, Islamic Republic Of",
-    "status": "assigned",
-    "numeric": "364"
+    "status": "assigned"
   },
   {
     "alpha2": "IS",
     "alpha3": "ISL",
+    "numeric": "352",
     "countryCallingCodes": [
       "+354"
     ],
@@ -2247,12 +2248,12 @@
       "isl"
     ],
     "name": "Iceland",
-    "status": "assigned",
-    "numeric": "352"
+    "status": "assigned"
   },
   {
     "alpha2": "IT",
     "alpha3": "ITA",
+    "numeric": "380",
     "countryCallingCodes": [
       "+39"
     ],
@@ -2265,12 +2266,12 @@
       "ita"
     ],
     "name": "Italy",
-    "status": "assigned",
-    "numeric": "380"
+    "status": "assigned"
   },
   {
     "alpha2": "JE",
     "alpha3": "JEY",
+    "numeric": "832",
     "countryCallingCodes": [
       "+44"
     ],
@@ -2284,12 +2285,12 @@
       "fra"
     ],
     "name": "Jersey",
-    "status": "assigned",
-    "numeric": "832"
+    "status": "assigned"
   },
   {
     "alpha2": "JM",
     "alpha3": "JAM",
+    "numeric": "388",
     "countryCallingCodes": [
       "+1 876"
     ],
@@ -2302,12 +2303,12 @@
       "eng"
     ],
     "name": "Jamaica",
-    "status": "assigned",
-    "numeric": "388"
+    "status": "assigned"
   },
   {
     "alpha2": "JO",
     "alpha3": "JOR",
+    "numeric": "400",
     "countryCallingCodes": [
       "+962"
     ],
@@ -2320,12 +2321,12 @@
       "ara"
     ],
     "name": "Jordan",
-    "status": "assigned",
-    "numeric": "400"
+    "status": "assigned"
   },
   {
     "alpha2": "JP",
     "alpha3": "JPN",
+    "numeric": "392",
     "countryCallingCodes": [
       "+81"
     ],
@@ -2338,23 +2339,23 @@
       "jpn"
     ],
     "name": "Japan",
-    "status": "assigned",
-    "numeric": "392"
+    "status": "assigned"
   },
   {
     "alpha2": "JT",
     "alpha3": "JTN",
+    "numeric": "",
     "countryCallingCodes": [],
     "currencies": [],
     "ioc": "",
     "languages": [],
     "name": "Johnston Island",
-    "status": "deleted",
-    "numeric": ""
+    "status": "deleted"
   },
   {
     "alpha2": "KE",
     "alpha3": "KEN",
+    "numeric": "404",
     "countryCallingCodes": [
       "+254"
     ],
@@ -2368,12 +2369,12 @@
       "swa"
     ],
     "name": "Kenya",
-    "status": "assigned",
-    "numeric": "404"
+    "status": "assigned"
   },
   {
     "alpha2": "KG",
     "alpha3": "KGZ",
+    "numeric": "417",
     "countryCallingCodes": [
       "+996"
     ],
@@ -2386,12 +2387,12 @@
       "rus"
     ],
     "name": "Kyrgyzstan",
-    "status": "assigned",
-    "numeric": "417"
+    "status": "assigned"
   },
   {
     "alpha2": "KH",
     "alpha3": "KHM",
+    "numeric": "116",
     "countryCallingCodes": [
       "+855"
     ],
@@ -2404,12 +2405,12 @@
       "khm"
     ],
     "name": "Cambodia",
-    "status": "assigned",
-    "numeric": "116"
+    "status": "assigned"
   },
   {
     "alpha2": "KI",
     "alpha3": "KIR",
+    "numeric": "296",
     "countryCallingCodes": [
       "+686"
     ],
@@ -2422,12 +2423,12 @@
       "eng"
     ],
     "name": "Kiribati",
-    "status": "assigned",
-    "numeric": "296"
+    "status": "assigned"
   },
   {
     "alpha2": "KM",
     "alpha3": "COM",
+    "numeric": "174",
     "countryCallingCodes": [
       "+269"
     ],
@@ -2441,12 +2442,12 @@
       "fra"
     ],
     "name": "Comoros",
-    "status": "assigned",
-    "numeric": "174"
+    "status": "assigned"
   },
   {
     "alpha2": "KN",
     "alpha3": "KNA",
+    "numeric": "659",
     "countryCallingCodes": [
       "+1 869"
     ],
@@ -2459,12 +2460,12 @@
       "eng"
     ],
     "name": "Saint Kitts And Nevis",
-    "status": "assigned",
-    "numeric": "659"
+    "status": "assigned"
   },
   {
     "alpha2": "KP",
     "alpha3": "PRK",
+    "numeric": "408",
     "countryCallingCodes": [
       "+850"
     ],
@@ -2477,12 +2478,12 @@
       "kor"
     ],
     "name": "Korea, Democratic People's Republic Of",
-    "status": "assigned",
-    "numeric": "408"
+    "status": "assigned"
   },
   {
     "alpha2": "KR",
     "alpha3": "KOR",
+    "numeric": "410",
     "countryCallingCodes": [
       "+82"
     ],
@@ -2495,12 +2496,12 @@
       "kor"
     ],
     "name": "Korea, Republic Of",
-    "status": "assigned",
-    "numeric": "410"
+    "status": "assigned"
   },
   {
     "alpha2": "KW",
     "alpha3": "KWT",
+    "numeric": "414",
     "countryCallingCodes": [
       "+965"
     ],
@@ -2513,12 +2514,12 @@
       "ara"
     ],
     "name": "Kuwait",
-    "status": "assigned",
-    "numeric": "414"
+    "status": "assigned"
   },
   {
     "alpha2": "KY",
     "alpha3": "CYM",
+    "numeric": "136",
     "countryCallingCodes": [
       "+1 345"
     ],
@@ -2531,12 +2532,12 @@
       "eng"
     ],
     "name": "Cayman Islands",
-    "status": "assigned",
-    "numeric": "136"
+    "status": "assigned"
   },
   {
     "alpha2": "KZ",
     "alpha3": "KAZ",
+    "numeric": "398",
     "countryCallingCodes": [
       "+7",
       "+7 6",
@@ -2552,12 +2553,12 @@
       "rus"
     ],
     "name": "Kazakhstan",
-    "status": "assigned",
-    "numeric": "398"
+    "status": "assigned"
   },
   {
     "alpha2": "LA",
     "alpha3": "LAO",
+    "numeric": "418",
     "countryCallingCodes": [
       "+856"
     ],
@@ -2570,12 +2571,12 @@
       "lao"
     ],
     "name": "Lao People's Democratic Republic",
-    "status": "assigned",
-    "numeric": "418"
+    "status": "assigned"
   },
   {
     "alpha2": "LB",
     "alpha3": "LBN",
+    "numeric": "422",
     "countryCallingCodes": [
       "+961"
     ],
@@ -2589,12 +2590,12 @@
       "hye"
     ],
     "name": "Lebanon",
-    "status": "assigned",
-    "numeric": "422"
+    "status": "assigned"
   },
   {
     "alpha2": "LC",
     "alpha3": "LCA",
+    "numeric": "662",
     "countryCallingCodes": [
       "+1 758"
     ],
@@ -2607,12 +2608,12 @@
       "eng"
     ],
     "name": "Saint Lucia",
-    "status": "assigned",
-    "numeric": "662"
+    "status": "assigned"
   },
   {
     "alpha2": "LI",
     "alpha3": "LIE",
+    "numeric": "438",
     "countryCallingCodes": [
       "+423"
     ],
@@ -2625,12 +2626,12 @@
       "deu"
     ],
     "name": "Liechtenstein",
-    "status": "assigned",
-    "numeric": "438"
+    "status": "assigned"
   },
   {
     "alpha2": "LK",
     "alpha3": "LKA",
+    "numeric": "144",
     "countryCallingCodes": [
       "+94"
     ],
@@ -2644,12 +2645,12 @@
       "tam"
     ],
     "name": "Sri Lanka",
-    "status": "assigned",
-    "numeric": "144"
+    "status": "assigned"
   },
   {
     "alpha2": "LR",
     "alpha3": "LBR",
+    "numeric": "430",
     "countryCallingCodes": [
       "+231"
     ],
@@ -2662,12 +2663,12 @@
       "eng"
     ],
     "name": "Liberia",
-    "status": "assigned",
-    "numeric": "430"
+    "status": "assigned"
   },
   {
     "alpha2": "LS",
     "alpha3": "LSO",
+    "numeric": "426",
     "countryCallingCodes": [
       "+266"
     ],
@@ -2682,12 +2683,12 @@
       "sot"
     ],
     "name": "Lesotho",
-    "status": "assigned",
-    "numeric": "426"
+    "status": "assigned"
   },
   {
     "alpha2": "LT",
     "alpha3": "LTU",
+    "numeric": "440",
     "countryCallingCodes": [
       "+370"
     ],
@@ -2700,12 +2701,12 @@
       "lit"
     ],
     "name": "Lithuania",
-    "status": "assigned",
-    "numeric": "440"
+    "status": "assigned"
   },
   {
     "alpha2": "LU",
     "alpha3": "LUX",
+    "numeric": "442",
     "countryCallingCodes": [
       "+352"
     ],
@@ -2720,12 +2721,12 @@
       "ltz"
     ],
     "name": "Luxembourg",
-    "status": "assigned",
-    "numeric": "442"
+    "status": "assigned"
   },
   {
     "alpha2": "LV",
     "alpha3": "LVA",
+    "numeric": "428",
     "countryCallingCodes": [
       "+371"
     ],
@@ -2738,12 +2739,12 @@
       "lav"
     ],
     "name": "Latvia",
-    "status": "assigned",
-    "numeric": "428"
+    "status": "assigned"
   },
   {
     "alpha2": "LY",
     "alpha3": "LBY",
+    "numeric": "434",
     "countryCallingCodes": [
       "+218"
     ],
@@ -2756,12 +2757,12 @@
       "ara"
     ],
     "name": "Libya",
-    "status": "assigned",
-    "numeric": "434"
+    "status": "assigned"
   },
   {
     "alpha2": "MA",
     "alpha3": "MAR",
+    "numeric": "504",
     "countryCallingCodes": [
       "+212"
     ],
@@ -2774,12 +2775,12 @@
       "ara"
     ],
     "name": "Morocco",
-    "status": "assigned",
-    "numeric": "504"
+    "status": "assigned"
   },
   {
     "alpha2": "MC",
     "alpha3": "MCO",
+    "numeric": "492",
     "countryCallingCodes": [
       "+377"
     ],
@@ -2792,12 +2793,12 @@
       "fra"
     ],
     "name": "Monaco",
-    "status": "assigned",
-    "numeric": "492"
+    "status": "assigned"
   },
   {
     "alpha2": "MD",
     "alpha3": "MDA",
+    "numeric": "498",
     "countryCallingCodes": [
       "+373"
     ],
@@ -2810,12 +2811,12 @@
       "ron"
     ],
     "name": "Moldova",
-    "status": "assigned",
-    "numeric": "498"
+    "status": "assigned"
   },
   {
     "alpha2": "ME",
     "alpha3": "MNE",
+    "numeric": "499",
     "countryCallingCodes": [
       "+382"
     ],
@@ -2828,12 +2829,12 @@
       "mot"
     ],
     "name": "Montenegro",
-    "status": "assigned",
-    "numeric": "499"
+    "status": "assigned"
   },
   {
     "alpha2": "MF",
     "alpha3": "MAF",
+    "numeric": "663",
     "countryCallingCodes": [
       "+590"
     ],
@@ -2846,12 +2847,12 @@
       "fra"
     ],
     "name": "Saint Martin",
-    "status": "assigned",
-    "numeric": "663"
+    "status": "assigned"
   },
   {
     "alpha2": "MG",
     "alpha3": "MDG",
+    "numeric": "450",
     "countryCallingCodes": [
       "+261"
     ],
@@ -2865,12 +2866,12 @@
       "mlg"
     ],
     "name": "Madagascar",
-    "status": "assigned",
-    "numeric": "450"
+    "status": "assigned"
   },
   {
     "alpha2": "MH",
     "alpha3": "MHL",
+    "numeric": "584",
     "countryCallingCodes": [
       "+692"
     ],
@@ -2884,23 +2885,23 @@
       "mah"
     ],
     "name": "Marshall Islands",
-    "status": "assigned",
-    "numeric": "584"
+    "status": "assigned"
   },
   {
     "alpha2": "MI",
     "alpha3": "MID",
+    "numeric": "",
     "countryCallingCodes": [],
     "currencies": [],
     "ioc": "",
     "languages": [],
     "name": "Midway Islands",
-    "status": "deleted",
-    "numeric": ""
+    "status": "deleted"
   },
   {
     "alpha2": "MK",
     "alpha3": "MKD",
+    "numeric": "807",
     "countryCallingCodes": [
       "+389"
     ],
@@ -2913,12 +2914,12 @@
       "mkd"
     ],
     "name": "Macedonia, The Former Yugoslav Republic Of",
-    "status": "assigned",
-    "numeric": "807"
+    "status": "assigned"
   },
   {
     "alpha2": "ML",
     "alpha3": "MLI",
+    "numeric": "466",
     "countryCallingCodes": [
       "+223"
     ],
@@ -2931,12 +2932,12 @@
       "fra"
     ],
     "name": "Mali",
-    "status": "assigned",
-    "numeric": "466"
+    "status": "assigned"
   },
   {
     "alpha2": "MM",
     "alpha3": "MMR",
+    "numeric": "104",
     "countryCallingCodes": [
       "+95"
     ],
@@ -2949,12 +2950,12 @@
       "mya"
     ],
     "name": "Myanmar",
-    "status": "assigned",
-    "numeric": "104"
+    "status": "assigned"
   },
   {
     "alpha2": "MN",
     "alpha3": "MNG",
+    "numeric": "496",
     "countryCallingCodes": [
       "+976"
     ],
@@ -2967,12 +2968,12 @@
       "mon"
     ],
     "name": "Mongolia",
-    "status": "assigned",
-    "numeric": "496"
+    "status": "assigned"
   },
   {
     "alpha2": "MO",
     "alpha3": "MAC",
+    "numeric": "446",
     "countryCallingCodes": [
       "+853"
     ],
@@ -2986,12 +2987,12 @@
       "por"
     ],
     "name": "Macao",
-    "status": "assigned",
-    "numeric": "446"
+    "status": "assigned"
   },
   {
     "alpha2": "MP",
     "alpha3": "MNP",
+    "numeric": "580",
     "countryCallingCodes": [
       "+1 670"
     ],
@@ -3004,12 +3005,12 @@
       "eng"
     ],
     "name": "Northern Mariana Islands",
-    "status": "assigned",
-    "numeric": "580"
+    "status": "assigned"
   },
   {
     "alpha2": "MQ",
     "alpha3": "MTQ",
+    "numeric": "474",
     "countryCallingCodes": [
       "+596"
     ],
@@ -3020,12 +3021,12 @@
     "ioc": "",
     "languages": [],
     "name": "Martinique",
-    "status": "assigned",
-    "numeric": "474"
+    "status": "assigned"
   },
   {
     "alpha2": "MR",
     "alpha3": "MRT",
+    "numeric": "478",
     "countryCallingCodes": [
       "+222"
     ],
@@ -3039,12 +3040,12 @@
       "fra"
     ],
     "name": "Mauritania",
-    "status": "assigned",
-    "numeric": "478"
+    "status": "assigned"
   },
   {
     "alpha2": "MS",
     "alpha3": "MSR",
+    "numeric": "500",
     "countryCallingCodes": [
       "+1 664"
     ],
@@ -3055,12 +3056,12 @@
     "ioc": "",
     "languages": [],
     "name": "Montserrat",
-    "status": "assigned",
-    "numeric": "500"
+    "status": "assigned"
   },
   {
     "alpha2": "MT",
     "alpha3": "MLT",
+    "numeric": "470",
     "countryCallingCodes": [
       "+356"
     ],
@@ -3074,12 +3075,12 @@
       "eng"
     ],
     "name": "Malta",
-    "status": "assigned",
-    "numeric": "470"
+    "status": "assigned"
   },
   {
     "alpha2": "MU",
     "alpha3": "MUS",
+    "numeric": "480",
     "countryCallingCodes": [
       "+230"
     ],
@@ -3093,12 +3094,12 @@
       "fra"
     ],
     "name": "Mauritius",
-    "status": "assigned",
-    "numeric": "480"
+    "status": "assigned"
   },
   {
     "alpha2": "MV",
     "alpha3": "MDV",
+    "numeric": "462",
     "countryCallingCodes": [
       "+960"
     ],
@@ -3111,12 +3112,12 @@
       "div"
     ],
     "name": "Maldives",
-    "status": "assigned",
-    "numeric": "462"
+    "status": "assigned"
   },
   {
     "alpha2": "MW",
     "alpha3": "MWI",
+    "numeric": "454",
     "countryCallingCodes": [
       "+265"
     ],
@@ -3130,12 +3131,12 @@
       "nya"
     ],
     "name": "Malawi",
-    "status": "assigned",
-    "numeric": "454"
+    "status": "assigned"
   },
   {
     "alpha2": "MX",
     "alpha3": "MEX",
+    "numeric": "484",
     "countryCallingCodes": [
       "+52"
     ],
@@ -3149,12 +3150,12 @@
       "spa"
     ],
     "name": "Mexico",
-    "status": "assigned",
-    "numeric": "484"
+    "status": "assigned"
   },
   {
     "alpha2": "MY",
     "alpha3": "MYS",
+    "numeric": "458",
     "countryCallingCodes": [
       "+60"
     ],
@@ -3168,12 +3169,12 @@
       "eng"
     ],
     "name": "Malaysia",
-    "status": "assigned",
-    "numeric": "458"
+    "status": "assigned"
   },
   {
     "alpha2": "MZ",
     "alpha3": "MOZ",
+    "numeric": "508",
     "countryCallingCodes": [
       "+258"
     ],
@@ -3186,12 +3187,12 @@
       "por"
     ],
     "name": "Mozambique",
-    "status": "assigned",
-    "numeric": "508"
+    "status": "assigned"
   },
   {
     "alpha2": "NA",
     "alpha3": "NAM",
+    "numeric": "516",
     "countryCallingCodes": [
       "+264"
     ],
@@ -3205,12 +3206,12 @@
       "eng"
     ],
     "name": "Namibia",
-    "status": "assigned",
-    "numeric": "516"
+    "status": "assigned"
   },
   {
     "alpha2": "NC",
     "alpha3": "NCL",
+    "numeric": "540",
     "countryCallingCodes": [
       "+687"
     ],
@@ -3223,12 +3224,12 @@
       "fra"
     ],
     "name": "New Caledonia",
-    "status": "assigned",
-    "numeric": "540"
+    "status": "assigned"
   },
   {
     "alpha2": "NE",
     "alpha3": "NER",
+    "numeric": "562",
     "countryCallingCodes": [
       "+227"
     ],
@@ -3241,12 +3242,12 @@
       "fra"
     ],
     "name": "Niger",
-    "status": "assigned",
-    "numeric": "562"
+    "status": "assigned"
   },
   {
     "alpha2": "NF",
     "alpha3": "NFK",
+    "numeric": "574",
     "countryCallingCodes": [
       "+672"
     ],
@@ -3259,12 +3260,12 @@
       "eng"
     ],
     "name": "Norfolk Island",
-    "status": "assigned",
-    "numeric": "574"
+    "status": "assigned"
   },
   {
     "alpha2": "NG",
     "alpha3": "NGA",
+    "numeric": "566",
     "countryCallingCodes": [
       "+234"
     ],
@@ -3277,23 +3278,23 @@
       "eng"
     ],
     "name": "Nigeria",
-    "status": "assigned",
-    "numeric": "566"
+    "status": "assigned"
   },
   {
     "alpha2": "NH",
     "alpha3": "NHB",
+    "numeric": "",
     "countryCallingCodes": [],
     "currencies": [],
     "ioc": "",
     "languages": [],
     "name": "New Hebrides",
-    "status": "deleted",
-    "numeric": ""
+    "status": "deleted"
   },
   {
     "alpha2": "NI",
     "alpha3": "NIC",
+    "numeric": "558",
     "countryCallingCodes": [
       "+505"
     ],
@@ -3306,12 +3307,12 @@
       "spa"
     ],
     "name": "Nicaragua",
-    "status": "assigned",
-    "numeric": "558"
+    "status": "assigned"
   },
   {
     "alpha2": "NL",
     "alpha3": "NLD",
+    "numeric": "528",
     "countryCallingCodes": [
       "+31"
     ],
@@ -3324,12 +3325,12 @@
       "nld"
     ],
     "name": "Netherlands",
-    "status": "assigned",
-    "numeric": "528"
+    "status": "assigned"
   },
   {
     "alpha2": "NO",
     "alpha3": "NOR",
+    "numeric": "578",
     "countryCallingCodes": [
       "+47"
     ],
@@ -3342,12 +3343,12 @@
       "nor"
     ],
     "name": "Norway",
-    "status": "assigned",
-    "numeric": "578"
+    "status": "assigned"
   },
   {
     "alpha2": "NP",
     "alpha3": "NPL",
+    "numeric": "524",
     "countryCallingCodes": [
       "+977"
     ],
@@ -3360,23 +3361,23 @@
       "nep"
     ],
     "name": "Nepal",
-    "status": "assigned",
-    "numeric": "524"
+    "status": "assigned"
   },
   {
     "alpha2": "NQ",
     "alpha3": "ATN",
+    "numeric": "",
     "countryCallingCodes": [],
     "currencies": [],
     "ioc": "",
     "languages": [],
     "name": "Dronning Maud Land",
-    "status": "deleted",
-    "numeric": ""
+    "status": "deleted"
   },
   {
     "alpha2": "NR",
     "alpha3": "NRU",
+    "numeric": "520",
     "countryCallingCodes": [
       "+674"
     ],
@@ -3390,23 +3391,23 @@
       "nau"
     ],
     "name": "Nauru",
-    "status": "assigned",
-    "numeric": "520"
+    "status": "assigned"
   },
   {
     "alpha2": "NT",
     "alpha3": "NTZ",
+    "numeric": "",
     "countryCallingCodes": [],
     "currencies": [],
     "ioc": "",
     "languages": [],
     "name": "Neutral Zone",
-    "status": "deleted",
-    "numeric": ""
+    "status": "deleted"
   },
   {
     "alpha2": "NU",
     "alpha3": "NIU",
+    "numeric": "570",
     "countryCallingCodes": [
       "+683"
     ],
@@ -3419,12 +3420,12 @@
       "eng"
     ],
     "name": "Niue",
-    "status": "assigned",
-    "numeric": "570"
+    "status": "assigned"
   },
   {
     "alpha2": "NZ",
     "alpha3": "NZL",
+    "numeric": "554",
     "countryCallingCodes": [
       "+64"
     ],
@@ -3437,12 +3438,12 @@
       "eng"
     ],
     "name": "New Zealand",
-    "status": "assigned",
-    "numeric": "554"
+    "status": "assigned"
   },
   {
     "alpha2": "OM",
     "alpha3": "OMN",
+    "numeric": "512",
     "countryCallingCodes": [
       "+968"
     ],
@@ -3455,12 +3456,12 @@
       "ara"
     ],
     "name": "Oman",
-    "status": "assigned",
-    "numeric": "512"
+    "status": "assigned"
   },
   {
     "alpha2": "PA",
     "alpha3": "PAN",
+    "numeric": "591",
     "countryCallingCodes": [
       "+507"
     ],
@@ -3474,23 +3475,23 @@
       "spa"
     ],
     "name": "Panama",
-    "status": "assigned",
-    "numeric": "591"
+    "status": "assigned"
   },
   {
     "alpha2": "PC",
     "alpha3": "PCI",
+    "numeric": "",
     "countryCallingCodes": [],
     "currencies": [],
     "ioc": "",
     "languages": [],
     "name": "Pacific Islands, Trust Territory of the",
-    "status": "deleted",
-    "numeric": ""
+    "status": "deleted"
   },
   {
     "alpha2": "PE",
     "alpha3": "PER",
+    "numeric": "604",
     "countryCallingCodes": [
       "+51"
     ],
@@ -3505,12 +3506,12 @@
       "que"
     ],
     "name": "Peru",
-    "status": "assigned",
-    "numeric": "604"
+    "status": "assigned"
   },
   {
     "alpha2": "PF",
     "alpha3": "PYF",
+    "numeric": "258",
     "countryCallingCodes": [
       "+689"
     ],
@@ -3523,12 +3524,12 @@
       "fra"
     ],
     "name": "French Polynesia",
-    "status": "assigned",
-    "numeric": "258"
+    "status": "assigned"
   },
   {
     "alpha2": "PG",
     "alpha3": "PNG",
+    "numeric": "598",
     "countryCallingCodes": [
       "+675"
     ],
@@ -3541,12 +3542,12 @@
       "eng"
     ],
     "name": "Papua New Guinea",
-    "status": "assigned",
-    "numeric": "598"
+    "status": "assigned"
   },
   {
     "alpha2": "PH",
     "alpha3": "PHL",
+    "numeric": "608",
     "countryCallingCodes": [
       "+63"
     ],
@@ -3559,12 +3560,12 @@
       "eng"
     ],
     "name": "Philippines",
-    "status": "assigned",
-    "numeric": "608"
+    "status": "assigned"
   },
   {
     "alpha2": "PK",
     "alpha3": "PAK",
+    "numeric": "586",
     "countryCallingCodes": [
       "+92"
     ],
@@ -3578,12 +3579,12 @@
       "eng"
     ],
     "name": "Pakistan",
-    "status": "assigned",
-    "numeric": "586"
+    "status": "assigned"
   },
   {
     "alpha2": "PL",
     "alpha3": "POL",
+    "numeric": "616",
     "countryCallingCodes": [
       "+48"
     ],
@@ -3596,12 +3597,12 @@
       "pol"
     ],
     "name": "Poland",
-    "status": "assigned",
-    "numeric": "616"
+    "status": "assigned"
   },
   {
     "alpha2": "PM",
     "alpha3": "SPM",
+    "numeric": "666",
     "countryCallingCodes": [
       "+508"
     ],
@@ -3614,12 +3615,12 @@
       "eng"
     ],
     "name": "Saint Pierre And Miquelon",
-    "status": "assigned",
-    "numeric": "666"
+    "status": "assigned"
   },
   {
     "alpha2": "PN",
     "alpha3": "PCN",
+    "numeric": "612",
     "countryCallingCodes": [
       "+872"
     ],
@@ -3632,12 +3633,12 @@
       "eng"
     ],
     "name": "Pitcairn",
-    "status": "assigned",
-    "numeric": "612"
+    "status": "assigned"
   },
   {
     "alpha2": "PR",
     "alpha3": "PRI",
+    "numeric": "630",
     "countryCallingCodes": [
       "+1 787",
       "+1 939"
@@ -3652,12 +3653,12 @@
       "eng"
     ],
     "name": "Puerto Rico",
-    "status": "assigned",
-    "numeric": "630"
+    "status": "assigned"
   },
   {
     "alpha2": "PS",
     "alpha3": "PSE",
+    "numeric": "275",
     "countryCallingCodes": [
       "+970"
     ],
@@ -3672,12 +3673,12 @@
       "ara"
     ],
     "name": "Palestinian Territory, Occupied",
-    "status": "assigned",
-    "numeric": "275"
+    "status": "assigned"
   },
   {
     "alpha2": "PT",
     "alpha3": "PRT",
+    "numeric": "620",
     "countryCallingCodes": [
       "+351"
     ],
@@ -3690,23 +3691,23 @@
       "por"
     ],
     "name": "Portugal",
-    "status": "assigned",
-    "numeric": "620"
+    "status": "assigned"
   },
   {
     "alpha2": "PU",
     "alpha3": "PUS",
+    "numeric": "",
     "countryCallingCodes": [],
     "currencies": [],
     "ioc": "",
     "languages": [],
     "name": "U.S. Miscellaneous Pacific Islands",
-    "status": "deleted",
-    "numeric": ""
+    "status": "deleted"
   },
   {
     "alpha2": "PW",
     "alpha3": "PLW",
+    "numeric": "585",
     "countryCallingCodes": [
       "+680"
     ],
@@ -3719,12 +3720,12 @@
       "eng"
     ],
     "name": "Palau",
-    "status": "assigned",
-    "numeric": "585"
+    "status": "assigned"
   },
   {
     "alpha2": "PY",
     "alpha3": "PRY",
+    "numeric": "600",
     "countryCallingCodes": [
       "+595"
     ],
@@ -3737,23 +3738,23 @@
       "spa"
     ],
     "name": "Paraguay",
-    "status": "assigned",
-    "numeric": "600"
+    "status": "assigned"
   },
   {
     "alpha2": "PZ",
     "alpha3": "PCZ",
+    "numeric": "",
     "countryCallingCodes": [],
     "currencies": [],
     "ioc": "",
     "languages": [],
     "name": "Panama Canal Zone",
-    "status": "deleted",
-    "numeric": ""
+    "status": "deleted"
   },
   {
     "alpha2": "QA",
     "alpha3": "QAT",
+    "numeric": "634",
     "countryCallingCodes": [
       "+974"
     ],
@@ -3766,12 +3767,12 @@
       "ara"
     ],
     "name": "Qatar",
-    "status": "assigned",
-    "numeric": "634"
+    "status": "assigned"
   },
   {
     "alpha2": "RE",
     "alpha3": "REU",
+    "numeric": "638",
     "countryCallingCodes": [
       "+262"
     ],
@@ -3784,23 +3785,23 @@
       "fra"
     ],
     "name": "Reunion",
-    "status": "assigned",
-    "numeric": "638"
+    "status": "assigned"
   },
   {
     "alpha2": "RH",
     "alpha3": "RHO",
+    "numeric": "",
     "countryCallingCodes": [],
     "currencies": [],
     "ioc": "",
     "languages": [],
     "name": "Southern Rhodesia",
-    "status": "deleted",
-    "numeric": ""
+    "status": "deleted"
   },
   {
     "alpha2": "RO",
     "alpha3": "ROU",
+    "numeric": "642",
     "countryCallingCodes": [
       "+40"
     ],
@@ -3813,12 +3814,12 @@
       "ron"
     ],
     "name": "Romania",
-    "status": "assigned",
-    "numeric": "642"
+    "status": "assigned"
   },
   {
     "alpha2": "RS",
     "alpha3": "SRB",
+    "numeric": "688",
     "countryCallingCodes": [
       "+381"
     ],
@@ -3831,12 +3832,12 @@
       "srp"
     ],
     "name": "Serbia",
-    "status": "assigned",
-    "numeric": "688"
+    "status": "assigned"
   },
   {
     "alpha2": "RU",
     "alpha3": "RUS",
+    "numeric": "643",
     "countryCallingCodes": [
       "+7",
       "+7 3",
@@ -3852,12 +3853,12 @@
       "rus"
     ],
     "name": "Russian Federation",
-    "status": "assigned",
-    "numeric": "643"
+    "status": "assigned"
   },
   {
     "alpha2": "RW",
     "alpha3": "RWA",
+    "numeric": "646",
     "countryCallingCodes": [
       "+250"
     ],
@@ -3872,12 +3873,12 @@
       "kin"
     ],
     "name": "Rwanda",
-    "status": "assigned",
-    "numeric": "646"
+    "status": "assigned"
   },
   {
     "alpha2": "SA",
     "alpha3": "SAU",
+    "numeric": "682",
     "countryCallingCodes": [
       "+966"
     ],
@@ -3890,12 +3891,12 @@
       "ara"
     ],
     "name": "Saudi Arabia",
-    "status": "assigned",
-    "numeric": "682"
+    "status": "assigned"
   },
   {
     "alpha2": "SB",
     "alpha3": "SLB",
+    "numeric": "090",
     "countryCallingCodes": [
       "+677"
     ],
@@ -3908,12 +3909,12 @@
       "eng"
     ],
     "name": "Solomon Islands",
-    "status": "assigned",
-    "numeric": "090"
+    "status": "assigned"
   },
   {
     "alpha2": "SC",
     "alpha3": "SYC",
+    "numeric": "690",
     "countryCallingCodes": [
       "+248"
     ],
@@ -3927,12 +3928,12 @@
       "fra"
     ],
     "name": "Seychelles",
-    "status": "assigned",
-    "numeric": "690"
+    "status": "assigned"
   },
   {
     "alpha2": "SD",
     "alpha3": "SDN",
+    "numeric": "729",
     "countryCallingCodes": [
       "+249"
     ],
@@ -3946,12 +3947,12 @@
       "eng"
     ],
     "name": "Sudan",
-    "status": "assigned",
-    "numeric": "729"
+    "status": "assigned"
   },
   {
     "alpha2": "SE",
     "alpha3": "SWE",
+    "numeric": "752",
     "countryCallingCodes": [
       "+46"
     ],
@@ -3964,12 +3965,12 @@
       "swe"
     ],
     "name": "Sweden",
-    "status": "assigned",
-    "numeric": "752"
+    "status": "assigned"
   },
   {
     "alpha2": "SG",
     "alpha3": "SGP",
+    "numeric": "702",
     "countryCallingCodes": [
       "+65"
     ],
@@ -3985,12 +3986,12 @@
       "tam"
     ],
     "name": "Singapore",
-    "status": "assigned",
-    "numeric": "702"
+    "status": "assigned"
   },
   {
     "alpha2": "SH",
     "alpha3": "SHN",
+    "numeric": "654",
     "countryCallingCodes": [
       "+290"
     ],
@@ -4003,12 +4004,12 @@
       "eng"
     ],
     "name": "Saint Helena, Ascension And Tristan Da Cunha",
-    "status": "assigned",
-    "numeric": "654"
+    "status": "assigned"
   },
   {
     "alpha2": "SI",
     "alpha3": "SVN",
+    "numeric": "705",
     "countryCallingCodes": [
       "+386"
     ],
@@ -4021,12 +4022,12 @@
       "slv"
     ],
     "name": "Slovenia",
-    "status": "assigned",
-    "numeric": "705"
+    "status": "assigned"
   },
   {
     "alpha2": "SJ",
     "alpha3": "SJM",
+    "numeric": "744",
     "countryCallingCodes": [
       "+47"
     ],
@@ -4037,12 +4038,12 @@
     "ioc": "",
     "languages": [],
     "name": "Svalbard And Jan Mayen",
-    "status": "assigned",
-    "numeric": "744"
+    "status": "assigned"
   },
   {
     "alpha2": "SK",
     "alpha3": "SVK",
+    "numeric": "703",
     "countryCallingCodes": [
       "+421"
     ],
@@ -4055,23 +4056,23 @@
       "slk"
     ],
     "name": "Slovakia",
-    "status": "assigned",
-    "numeric": "703"
+    "status": "assigned"
   },
   {
     "alpha2": "SK",
     "alpha3": "SKM",
+    "numeric": "703",
     "countryCallingCodes": [],
     "currencies": [],
     "ioc": "",
     "languages": [],
     "name": "Sikkim",
-    "status": "deleted",
-    "numeric": "703"
+    "status": "deleted"
   },
   {
     "alpha2": "SL",
     "alpha3": "SLE",
+    "numeric": "694",
     "countryCallingCodes": [
       "+232"
     ],
@@ -4084,12 +4085,12 @@
       "eng"
     ],
     "name": "Sierra Leone",
-    "status": "assigned",
-    "numeric": "694"
+    "status": "assigned"
   },
   {
     "alpha2": "SM",
     "alpha3": "SMR",
+    "numeric": "674",
     "countryCallingCodes": [
       "+378"
     ],
@@ -4102,12 +4103,12 @@
       "ita"
     ],
     "name": "San Marino",
-    "status": "assigned",
-    "numeric": "674"
+    "status": "assigned"
   },
   {
     "alpha2": "SN",
     "alpha3": "SEN",
+    "numeric": "686",
     "countryCallingCodes": [
       "+221"
     ],
@@ -4120,12 +4121,12 @@
       "fra"
     ],
     "name": "Senegal",
-    "status": "assigned",
-    "numeric": "686"
+    "status": "assigned"
   },
   {
     "alpha2": "SO",
     "alpha3": "SOM",
+    "numeric": "706",
     "countryCallingCodes": [
       "+252"
     ],
@@ -4138,12 +4139,12 @@
       "som"
     ],
     "name": "Somalia",
-    "status": "assigned",
-    "numeric": "706"
+    "status": "assigned"
   },
   {
     "alpha2": "SR",
     "alpha3": "SUR",
+    "numeric": "740",
     "countryCallingCodes": [
       "+597"
     ],
@@ -4156,12 +4157,12 @@
       "nld"
     ],
     "name": "Suriname",
-    "status": "assigned",
-    "numeric": "740"
+    "status": "assigned"
   },
   {
     "alpha2": "SS",
     "alpha3": "SSD",
+    "numeric": "728",
     "countryCallingCodes": [
       "+211"
     ],
@@ -4174,12 +4175,12 @@
       "eng"
     ],
     "name": "South Sudan",
-    "status": "assigned",
-    "numeric": "728"
+    "status": "assigned"
   },
   {
     "alpha2": "ST",
     "alpha3": "STP",
+    "numeric": "678",
     "countryCallingCodes": [
       "+239"
     ],
@@ -4192,12 +4193,12 @@
       "por"
     ],
     "name": "Sao Tome and Principe",
-    "status": "assigned",
-    "numeric": "678"
+    "status": "assigned"
   },
   {
     "alpha2": "SU",
     "alpha3": "",
+    "numeric": "",
     "countryCallingCodes": [],
     "currencies": [
       "RUB"
@@ -4208,12 +4209,12 @@
       "rus"
     ],
     "name": "USSR",
-    "status": "reserved",
-    "numeric": ""
+    "status": "reserved"
   },
   {
     "alpha2": "SV",
     "alpha3": "SLV",
+    "numeric": "222",
     "countryCallingCodes": [
       "+503"
     ],
@@ -4226,12 +4227,12 @@
       "spa"
     ],
     "name": "El Salvador",
-    "status": "assigned",
-    "numeric": "222"
+    "status": "assigned"
   },
   {
     "alpha2": "SX",
     "alpha3": "SXM",
+    "numeric": "534",
     "countryCallingCodes": [
       "+1 721"
     ],
@@ -4244,12 +4245,12 @@
       "nld"
     ],
     "name": "Sint Maarten",
-    "status": "assigned",
-    "numeric": "534"
+    "status": "assigned"
   },
   {
     "alpha2": "SY",
     "alpha3": "SYR",
+    "numeric": "760",
     "countryCallingCodes": [
       "+963"
     ],
@@ -4262,12 +4263,12 @@
       "ara"
     ],
     "name": "Syrian Arab Republic",
-    "status": "assigned",
-    "numeric": "760"
+    "status": "assigned"
   },
   {
     "alpha2": "SZ",
     "alpha3": "SWZ",
+    "numeric": "748",
     "countryCallingCodes": [
       "+268"
     ],
@@ -4281,12 +4282,12 @@
       "ssw"
     ],
     "name": "Swaziland",
-    "status": "assigned",
-    "numeric": "748"
+    "status": "assigned"
   },
   {
     "alpha2": "TA",
     "alpha3": "",
+    "numeric": "",
     "countryCallingCodes": [
       "+290"
     ],
@@ -4297,12 +4298,12 @@
     "ioc": "",
     "languages": [],
     "name": "Tristan de Cunha",
-    "status": "reserved",
-    "numeric": ""
+    "status": "reserved"
   },
   {
     "alpha2": "TC",
     "alpha3": "TCA",
+    "numeric": "796",
     "countryCallingCodes": [
       "+1 649"
     ],
@@ -4315,12 +4316,12 @@
       "eng"
     ],
     "name": "Turks And Caicos Islands",
-    "status": "assigned",
-    "numeric": "796"
+    "status": "assigned"
   },
   {
     "alpha2": "TD",
     "alpha3": "TCD",
+    "numeric": "148",
     "countryCallingCodes": [
       "+235"
     ],
@@ -4334,12 +4335,12 @@
       "fra"
     ],
     "name": "Chad",
-    "status": "assigned",
-    "numeric": "148"
+    "status": "assigned"
   },
   {
     "alpha2": "TF",
     "alpha3": "ATF",
+    "numeric": "260",
     "countryCallingCodes": [],
     "currencies": [
       "EUR"
@@ -4350,12 +4351,12 @@
       "fra"
     ],
     "name": "French Southern Territories",
-    "status": "assigned",
-    "numeric": "260"
+    "status": "assigned"
   },
   {
     "alpha2": "TG",
     "alpha3": "TGO",
+    "numeric": "768",
     "countryCallingCodes": [
       "+228"
     ],
@@ -4368,12 +4369,12 @@
       "fra"
     ],
     "name": "Togo",
-    "status": "assigned",
-    "numeric": "768"
+    "status": "assigned"
   },
   {
     "alpha2": "TH",
     "alpha3": "THA",
+    "numeric": "764",
     "countryCallingCodes": [
       "+66"
     ],
@@ -4386,12 +4387,12 @@
       "tha"
     ],
     "name": "Thailand",
-    "status": "assigned",
-    "numeric": "764"
+    "status": "assigned"
   },
   {
     "alpha2": "TJ",
     "alpha3": "TJK",
+    "numeric": "762",
     "countryCallingCodes": [
       "+992"
     ],
@@ -4405,12 +4406,12 @@
       "rus"
     ],
     "name": "Tajikistan",
-    "status": "assigned",
-    "numeric": "762"
+    "status": "assigned"
   },
   {
     "alpha2": "TK",
     "alpha3": "TKL",
+    "numeric": "772",
     "countryCallingCodes": [
       "+690"
     ],
@@ -4423,12 +4424,12 @@
       "eng"
     ],
     "name": "Tokelau",
-    "status": "assigned",
-    "numeric": "772"
+    "status": "assigned"
   },
   {
     "alpha2": "TL",
     "alpha3": "TLS",
+    "numeric": "626",
     "countryCallingCodes": [
       "+670"
     ],
@@ -4441,12 +4442,12 @@
       "por"
     ],
     "name": "Timor-Leste, Democratic Republic of",
-    "status": "assigned",
-    "numeric": "626"
+    "status": "assigned"
   },
   {
     "alpha2": "TM",
     "alpha3": "TKM",
+    "numeric": "795",
     "countryCallingCodes": [
       "+993"
     ],
@@ -4460,12 +4461,12 @@
       "rus"
     ],
     "name": "Turkmenistan",
-    "status": "assigned",
-    "numeric": "795"
+    "status": "assigned"
   },
   {
     "alpha2": "TN",
     "alpha3": "TUN",
+    "numeric": "788",
     "countryCallingCodes": [
       "+216"
     ],
@@ -4478,12 +4479,12 @@
       "ara"
     ],
     "name": "Tunisia",
-    "status": "assigned",
-    "numeric": "788"
+    "status": "assigned"
   },
   {
     "alpha2": "TO",
     "alpha3": "TON",
+    "numeric": "776",
     "countryCallingCodes": [
       "+676"
     ],
@@ -4496,23 +4497,23 @@
       "eng"
     ],
     "name": "Tonga",
-    "status": "assigned",
-    "numeric": "776"
+    "status": "assigned"
   },
   {
     "alpha2": "TP",
     "alpha3": "TMP",
+    "numeric": "",
     "countryCallingCodes": [],
     "currencies": [],
     "ioc": "",
     "languages": [],
     "name": "East Timor",
-    "status": "deleted",
-    "numeric": ""
+    "status": "deleted"
   },
   {
     "alpha2": "TR",
     "alpha3": "TUR",
+    "numeric": "792",
     "countryCallingCodes": [
       "+90"
     ],
@@ -4525,12 +4526,12 @@
       "tur"
     ],
     "name": "Turkey",
-    "status": "assigned",
-    "numeric": "792"
+    "status": "assigned"
   },
   {
     "alpha2": "TT",
     "alpha3": "TTO",
+    "numeric": "780",
     "countryCallingCodes": [
       "+1 868"
     ],
@@ -4543,12 +4544,12 @@
       "eng"
     ],
     "name": "Trinidad And Tobago",
-    "status": "assigned",
-    "numeric": "780"
+    "status": "assigned"
   },
   {
     "alpha2": "TV",
     "alpha3": "TUV",
+    "numeric": "798",
     "countryCallingCodes": [
       "+688"
     ],
@@ -4561,12 +4562,12 @@
       "eng"
     ],
     "name": "Tuvalu",
-    "status": "assigned",
-    "numeric": "798"
+    "status": "assigned"
   },
   {
     "alpha2": "TW",
     "alpha3": "TWN",
+    "numeric": "158",
     "countryCallingCodes": [
       "+886"
     ],
@@ -4579,12 +4580,12 @@
       "zho"
     ],
     "name": "Taiwan",
-    "status": "assigned",
-    "numeric": "158"
+    "status": "assigned"
   },
   {
     "alpha2": "TZ",
     "alpha3": "TZA",
+    "numeric": "834",
     "countryCallingCodes": [
       "+255"
     ],
@@ -4598,12 +4599,12 @@
       "eng"
     ],
     "name": "Tanzania, United Republic Of",
-    "status": "assigned",
-    "numeric": "834"
+    "status": "assigned"
   },
   {
     "alpha2": "UA",
     "alpha3": "UKR",
+    "numeric": "804",
     "countryCallingCodes": [
       "+380"
     ],
@@ -4617,12 +4618,12 @@
       "rus"
     ],
     "name": "Ukraine",
-    "status": "assigned",
-    "numeric": "804"
+    "status": "assigned"
   },
   {
     "alpha2": "UG",
     "alpha3": "UGA",
+    "numeric": "800",
     "countryCallingCodes": [
       "+256"
     ],
@@ -4636,12 +4637,12 @@
       "swa"
     ],
     "name": "Uganda",
-    "status": "assigned",
-    "numeric": "800"
+    "status": "assigned"
   },
   {
     "alpha2": "UK",
     "alpha3": "",
+    "numeric": "",
     "countryCallingCodes": [],
     "currencies": [
       "GBP"
@@ -4656,12 +4657,12 @@
       "cym"
     ],
     "name": "United Kingdom",
-    "status": "reserved",
-    "numeric": ""
+    "status": "reserved"
   },
   {
     "alpha2": "UM",
     "alpha3": "UMI",
+    "numeric": "581",
     "countryCallingCodes": [
       "+1"
     ],
@@ -4674,12 +4675,12 @@
       "eng"
     ],
     "name": "United States Minor Outlying Islands",
-    "status": "assigned",
-    "numeric": "581"
+    "status": "assigned"
   },
   {
     "alpha2": "US",
     "alpha3": "USA",
+    "numeric": "840",
     "countryCallingCodes": [
       "+1"
     ],
@@ -4692,12 +4693,12 @@
       "eng"
     ],
     "name": "United States",
-    "status": "assigned",
-    "numeric": "840"
+    "status": "assigned"
   },
   {
     "alpha2": "UY",
     "alpha3": "URY",
+    "numeric": "858",
     "countryCallingCodes": [
       "+598"
     ],
@@ -4711,12 +4712,12 @@
       "spa"
     ],
     "name": "Uruguay",
-    "status": "assigned",
-    "numeric": "858"
+    "status": "assigned"
   },
   {
     "alpha2": "UZ",
     "alpha3": "UZB",
+    "numeric": "860",
     "countryCallingCodes": [
       "+998"
     ],
@@ -4730,12 +4731,12 @@
       "rus"
     ],
     "name": "Uzbekistan",
-    "status": "assigned",
-    "numeric": "860"
+    "status": "assigned"
   },
   {
     "alpha2": "VA",
     "alpha3": "VAT",
+    "numeric": "336",
     "countryCallingCodes": [
       "+379",
       "+39"
@@ -4749,12 +4750,12 @@
       "ita"
     ],
     "name": "Vatican City State",
-    "status": "assigned",
-    "numeric": "336"
+    "status": "assigned"
   },
   {
     "alpha2": "VC",
     "alpha3": "VCT",
+    "numeric": "670",
     "countryCallingCodes": [
       "+1 784"
     ],
@@ -4767,23 +4768,23 @@
       "eng"
     ],
     "name": "Saint Vincent And The Grenadines",
-    "status": "assigned",
-    "numeric": "670"
+    "status": "assigned"
   },
   {
     "alpha2": "VD",
     "alpha3": "VDR",
+    "numeric": "",
     "countryCallingCodes": [],
     "currencies": [],
     "ioc": "",
     "languages": [],
     "name": "Viet-Nam, Democratic Republic of",
-    "status": "deleted",
-    "numeric": ""
+    "status": "deleted"
   },
   {
     "alpha2": "VE",
     "alpha3": "VEN",
+    "numeric": "862",
     "countryCallingCodes": [
       "+58"
     ],
@@ -4796,12 +4797,12 @@
       "spa"
     ],
     "name": "Venezuela, Bolivarian Republic Of",
-    "status": "assigned",
-    "numeric": "862"
+    "status": "assigned"
   },
   {
     "alpha2": "VG",
     "alpha3": "VGB",
+    "numeric": "092",
     "countryCallingCodes": [
       "+1 284"
     ],
@@ -4814,12 +4815,12 @@
       "eng"
     ],
     "name": "Virgin Islands (British)",
-    "status": "assigned",
-    "numeric": "092"
+    "status": "assigned"
   },
   {
     "alpha2": "VI",
     "alpha3": "VIR",
+    "numeric": "850",
     "countryCallingCodes": [
       "+1 340"
     ],
@@ -4832,12 +4833,12 @@
       "eng"
     ],
     "name": "Virgin Islands (US)",
-    "status": "assigned",
-    "numeric": "850"
+    "status": "assigned"
   },
   {
     "alpha2": "VN",
     "alpha3": "VNM",
+    "numeric": "704",
     "countryCallingCodes": [
       "+84"
     ],
@@ -4850,12 +4851,12 @@
       "vie"
     ],
     "name": "Viet Nam",
-    "status": "assigned",
-    "numeric": "704"
+    "status": "assigned"
   },
   {
     "alpha2": "VU",
     "alpha3": "VUT",
+    "numeric": "548",
     "countryCallingCodes": [
       "+678"
     ],
@@ -4870,12 +4871,12 @@
       "fra"
     ],
     "name": "Vanuatu",
-    "status": "assigned",
-    "numeric": "548"
+    "status": "assigned"
   },
   {
     "alpha2": "WF",
     "alpha3": "WLF",
+    "numeric": "876",
     "countryCallingCodes": [
       "+681"
     ],
@@ -4888,23 +4889,23 @@
       "fra"
     ],
     "name": "Wallis And Futuna",
-    "status": "assigned",
-    "numeric": "876"
+    "status": "assigned"
   },
   {
     "alpha2": "WK",
     "alpha3": "WAK",
+    "numeric": "",
     "countryCallingCodes": [],
     "currencies": [],
     "ioc": "",
     "languages": [],
     "name": "Wake Island",
-    "status": "deleted",
-    "numeric": ""
+    "status": "deleted"
   },
   {
     "alpha2": "WS",
     "alpha3": "WSM",
+    "numeric": "882",
     "countryCallingCodes": [
       "+685"
     ],
@@ -4918,12 +4919,12 @@
       "smo"
     ],
     "name": "Samoa",
-    "status": "assigned",
-    "numeric": "882"
+    "status": "assigned"
   },
   {
     "alpha2": "XK",
     "alpha3": "",
+    "numeric": "",
     "countryCallingCodes": [
       "+383"
     ],
@@ -4940,23 +4941,23 @@
       "rom"
     ],
     "name": "Kosovo",
-    "status": "user assigned",
-    "numeric": ""
+    "status": "user assigned"
   },
   {
     "alpha2": "YD",
     "alpha3": "YMD",
+    "numeric": "",
     "countryCallingCodes": [],
     "currencies": [],
     "ioc": "",
     "languages": [],
     "name": "Yemen, Democratic",
-    "status": "deleted",
-    "numeric": ""
+    "status": "deleted"
   },
   {
     "alpha2": "YE",
     "alpha3": "YEM",
+    "numeric": "887",
     "countryCallingCodes": [
       "+967"
     ],
@@ -4969,12 +4970,12 @@
       "ara"
     ],
     "name": "Yemen",
-    "status": "assigned",
-    "numeric": "887"
+    "status": "assigned"
   },
   {
     "alpha2": "YT",
     "alpha3": "MYT",
+    "numeric": "175",
     "countryCallingCodes": [
       "+262"
     ],
@@ -4987,23 +4988,23 @@
       "fra"
     ],
     "name": "Mayotte",
-    "status": "assigned",
-    "numeric": "175"
+    "status": "assigned"
   },
   {
     "alpha2": "YU",
     "alpha3": "YUG",
+    "numeric": "",
     "countryCallingCodes": [],
     "currencies": [],
     "ioc": "",
     "languages": [],
     "name": "Yugoslavia",
-    "status": "deleted",
-    "numeric": ""
+    "status": "deleted"
   },
   {
     "alpha2": "ZA",
     "alpha3": "ZAF",
+    "numeric": "710",
     "countryCallingCodes": [
       "+27"
     ],
@@ -5023,12 +5024,12 @@
       "zul"
     ],
     "name": "South Africa",
-    "status": "assigned",
-    "numeric": "710"
+    "status": "assigned"
   },
   {
     "alpha2": "ZM",
     "alpha3": "ZMB",
+    "numeric": "894",
     "countryCallingCodes": [
       "+260"
     ],
@@ -5041,23 +5042,23 @@
       "eng"
     ],
     "name": "Zambia",
-    "status": "assigned",
-    "numeric": "894"
+    "status": "assigned"
   },
   {
     "alpha2": "ZR",
     "alpha3": "ZAR",
+    "numeric": "",
     "countryCallingCodes": [],
     "currencies": [],
     "ioc": "",
     "languages": [],
     "name": "Zaire",
-    "status": "deleted",
-    "numeric": ""
+    "status": "deleted"
   },
   {
     "alpha2": "ZW",
     "alpha3": "ZWE",
+    "numeric": "716",
     "countryCallingCodes": [
       "+263"
     ],
@@ -5076,7 +5077,6 @@
       "nde"
     ],
     "name": "Zimbabwe",
-    "status": "assigned",
-    "numeric": "716"
+    "status": "assigned"
   }
 ]
