@@ -1,5 +1,5 @@
 import * as _ from 'underscore'
-import { regions } from './regions.js'
+import { regions } from './regions'
 
 export interface Continent {
     name: string

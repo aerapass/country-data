@@ -2,8 +2,8 @@
 import * as _ from 'underscore'
 import { init } from './lookup'
 
-export const continents = require('../data/continents')
-export const regions = require('../data/regions')
+export const continents = require('./continents')
+export const regions = require('./regions')
 export const countriesAll = require('../data/countries.json')
 export const currenciesAll = require('../data/currencies.json')
 export const languagesAll = require('../data/languages.json')
@@ -28,6 +28,7 @@ export interface Country {
     name: string
     status: 'assigned' | 'reserved' | 'user assigned' | 'deleted'
     numeric: string
+    emoji: string
 }
 
 export interface Language {
@@ -41,11 +42,19 @@ export interface CountryMap {
     [countryCode: string]: Country
 }
 
+export interface CurrencyMap {
+    [code: string]: Currency
+}
+
+export interface LanguageMap {
+    [code: string]: Language
+}
+
 export const countries: CountryMap & { all: Country[] } = {
     all: countriesAll,
 }
 
-export const currencies: { all: Currency[] } = {
+export const currencies: CurrencyMap & { all: Currency[] } = {
     all: currenciesAll,
 }
 
@@ -73,7 +82,7 @@ _.each(currenciesAll, (currency: Currency) => {
     currencies[currency.code] = currency
 })
 
-export const languages = {
+export const languages: LanguageMap & { all: Language[] } = {
     all: languagesAll,
 }
 
