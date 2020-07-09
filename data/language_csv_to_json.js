@@ -1,10 +1,12 @@
+'use strict'
+
 // Take the csv and convert to json and tidy it up so that it is consistent.
 
-import path from 'path'
-import * as _ from 'underscore'
-import csv from 'csv'
-import canonicalJSON from 'canonical-json'
-import fs from 'fs'
+const path = require('path')
+const _ = require('underscore')
+const csv = require('csv')
+const canonicalJSON = require('canonical-json')
+const fs = require('fs')
 
 let output = []
 

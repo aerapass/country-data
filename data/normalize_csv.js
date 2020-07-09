@@ -1,7 +1,11 @@
+'use strict'
+
 // Take the csv files and convert them to standard format
 
-import * as _ from 'underscore'
-import csv from 'csv'
+const path = require('path')
+const _ = require('underscore')
+const csv = require('csv')
+const fs = require('fs')
 
 const firstHeader = process.argv[2]
 
@@ -27,7 +31,6 @@ parser.on('finish', () => {
     const headers = _.keys(output[0])
     const remaining = _.without(headers, firstHeader)
     const columns = _.flatten([firstHeader, remaining.sort()])
-    // console.warn(columns);
 
     csv.stringify(output, { header: true, columns: columns }, (err, string) => {
         process.stdout.write(string)
