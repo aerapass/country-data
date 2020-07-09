@@ -9,6 +9,32 @@
 
 Data about countries - like their ISO codes and currencies - with typings.
 
+## Installation
+
+```
+npm install country-data
+```
+
+## Example usage
+
+```typescript
+import { countries, continents, currencies, regions } from '@aerapass/country-data'
+
+// .all gives you an array of all entries
+console.log(countries.all)
+console.log(currencies.all)
+
+// countries are found using alpha2 or alpha3 (both uppercase)
+console.log(countries.BE.name) // 'Belgium'
+console.log(countries.FRA.currencies) // ['EUR']
+
+// currencies are accessed by their code (uppercase)
+console.log(currencies.USD.name) // 'United States dollar'
+
+// regions are accessed using a camel case name
+console.log(regions.europe.countries)
+```
+
 ## Countries
 
 The data currently provided for each country is:
@@ -49,32 +75,6 @@ It is not that useful to just have the currency code(s) for a country, so includ
 - `symbol` The currency symbol for the currency (e.g. ¥, \$ etc.). Some symbols are not available, in which case
   `symbol` contains the ISO 4217 code. Credit to [bengourley/currency-symbol-map](https://github.com/bengourley/currency-symbol-map)
   for the symbol database.
-
-## Installation
-
-```
-npm install country-data
-```
-
-## Example usage
-
-```typescript
-import { countries, continents, currencies, regions } from '@aerapass/country-data'
-
-// .all gives you an array of all entries
-console.log(countries.all)
-console.log(currencies.all)
-
-// countries are found using alpha2 or alpha3 (both uppercase)
-console.log(countries.BE.name) // 'Belgium'
-console.log(countries.FRA.currencies) // ['EUR']
-
-// currencies are accessed by their code (uppercase)
-console.log(currencies.USD.name) // 'United States dollar'
-
-// regions are accessed using a camel case name
-console.log(regions.europe.countries)
-```
 
 ## Sources
 
