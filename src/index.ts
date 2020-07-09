@@ -15,6 +15,7 @@ export interface Country {
     alpha3: string
     countryCallingCodes: string[]
     currencies: string[]
+    emoji: string
     ioc: string
     languages: string
     name: string
