@@ -1,4 +1,4 @@
-import { countries, currencies, languages } from '../src/index'
+import { countries, currencies, languages } from '../'
 import * as _ from 'underscore'
 
 test('countries should be an array', () => {

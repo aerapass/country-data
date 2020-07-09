@@ -1,5 +1,5 @@
 import * as _ from 'underscore'
-import { currencies } from '../src/index'
+import { currencies } from '../'
 
 test('currencies should be an array', () => {
     expect(currencies.all).toBeInstanceOf(Array)

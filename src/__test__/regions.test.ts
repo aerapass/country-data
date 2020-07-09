@@ -1,6 +1,5 @@
 import * as _ from 'underscore'
-import { countries } from '../src/index'
-import { regions } from '../src/regions'
+import { countries, regions } from '../'
 
 test("check region's countries are known", () => {
     _.each(regions as any, (region: any) => {
@@ -36,8 +35,8 @@ test('check region countries exist', () => {
 })
 
 test('check all assigned countries are in regions', () => {
-    let countriesAssigned = []
-    let countriesAvailable = []
+    const countriesAssigned = []
+    const countriesAvailable = []
 
     _.each(regions as any, (region: any) => {
         _.each(region.countries, (country) => {
@@ -51,7 +50,7 @@ test('check all assigned countries are in regions', () => {
         }
     })
 
-    let difference = _.difference(countriesAvailable, countriesAssigned)
+    const difference = _.difference(countriesAvailable, countriesAssigned)
 
     if (difference.length > 0) {
         console.log('unused: ', difference)

@@ -1,4 +1,4 @@
-import { countries } from '../src/index'
+import { countries } from '../'
 import * as _ from 'underscore'
 
 _.each(countries, (country) => {

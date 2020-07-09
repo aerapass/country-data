@@ -1,5 +1,5 @@
 import * as _ from 'underscore'
-import { countries } from '../src/index'
+import { countries } from '../'
 
 test('cross references', () => {
     const assertValidReferences = (referenceListName, referenceIdKey, listName, listKey) => {

@@ -1,5 +1,5 @@
 import * as _ from 'underscore'
-import { languages } from '../src/index'
+import { languages } from '../'
 
 test('languages should be an array', () => {
     expect(languages.all).toBeInstanceOf(Array)
