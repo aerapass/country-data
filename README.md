@@ -12,7 +12,7 @@ Data about countries - like their ISO codes and currencies - with typings.
 ## Installation
 
 ```
-npm install country-data
+npm install @aerapass/country-data
 ```
 
 ## Usage
