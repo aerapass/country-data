@@ -4,7 +4,7 @@ import { regions } from './regions'
 export interface Continent {
     name: string
     regions: string[]
-    countries: any[]
+    countries: string[]
 }
 
 export interface Continents {
