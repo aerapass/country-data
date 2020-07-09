@@ -1,22 +1,14 @@
 /* eslint-disable @typescript-eslint/no-var-requires */
 import * as _ from 'underscore'
-import { init } from './lookup'
 
-export const continents = require('./continents')
-export const regions = require('./regions')
-export const countriesAll = require('../data/countries.json')
-export const currenciesAll = require('../data/currencies.json')
-export const languagesAll = require('../data/languages.json')
+export * from './continents'
+export * from './regions'
+
+const countriesAll = require('../data/countries.json')
+const currenciesAll = require('../data/currencies.json')
+const languagesAll = require('../data/languages.json')
 
 const getSymbol = require('currency-symbol-map')
-
-export interface Currency {
-    code: string
-    decimals: number
-    name: string
-    number: string
-    symbol: string
-}
 
 export interface Country {
     alpha2: string
@@ -26,32 +18,28 @@ export interface Country {
     ioc: string
     languages: string
     name: string
-    status: 'assigned' | 'reserved' | 'user assigned' | 'deleted'
     numeric: string
-    emoji: string
-}
-
-export interface Language {
-    alpha2: string
-    alpha3: string
-    bibliographic: string
-    name: string
+    status: 'assigned' | 'reserved' | 'user assigned' | 'deleted'
 }
 
 export interface CountryMap {
     [countryCode: string]: Country
 }
 
-export interface CurrencyMap {
-    [code: string]: Currency
-}
-
-export interface LanguageMap {
-    [code: string]: Language
-}
-
 export const countries: CountryMap & { all: Country[] } = {
     all: countriesAll,
+}
+
+export interface Currency {
+    code: string
+    decimals: number
+    name: string
+    number: string
+    symbol: string
+}
+
+export interface CurrencyMap {
+    [code: string]: Currency
 }
 
 export const currencies: CurrencyMap & { all: Currency[] } = {
@@ -82,6 +70,17 @@ _.each(currenciesAll, (currency: Currency) => {
     currencies[currency.code] = currency
 })
 
+export interface Language {
+    alpha2: string
+    alpha3: string
+    bibliographic: string
+    name: string
+}
+
+export interface LanguageMap {
+    [code: string]: Language
+}
+
 export const languages: LanguageMap & { all: Language[] } = {
     all: languagesAll,
 }
@@ -93,66 +92,4 @@ _.each(languagesAll, (language: Language) => {
     languages[language.alpha2] = language
     languages[language.bibliographic] = language
     languages[language.alpha3] = language
-})
-
-export const lookup = init({
-    countries: countriesAll,
-    currencies: currenciesAll,
-    languages: languagesAll,
-})
-
-let callingCountries = { all: [] }
-
-const callingCodesAll = _.reduce(
-    countriesAll,
-    (codes, country: Country) => {
-        if (country.countryCallingCodes && country.countryCallingCodes.length) {
-            callingCountries.all.push(country)
-
-            callingCountries[country.alpha2] = country
-            callingCountries[country.alpha3] = country
-
-            _.each(country.countryCallingCodes, (code) => {
-                if (codes.indexOf(code) == -1) {
-                    codes.push(code)
-                }
-            })
-        }
-        return codes
-    },
-    []
-)
-
-export const callingCodes = {
-    all: callingCodesAll,
-}
-
-delete callingCountries[''] // remove empty alpha3s
-callingCountries = callingCountries
-
-callingCodesAll.sort((a, b) => {
-    const parse = (str) => {
-        return parseInt(str)
-    }
-    const splitA = _.map(a.split(' '), parse)
-    const splitB = _.map(b.split(' '), parse)
-
-    if (splitA[0] < splitB[0]) {
-        return -1
-    } else if (splitA[0] > splitB[0]) {
-        return 1
-    } else {
-        // Same - check split[1]
-        if (splitA[1] === undefined && splitB[1] !== undefined) {
-            return -1
-        } else if (splitA[1] !== undefined && splitB[1] === undefined) {
-            return 1
-        } else if (splitA[1] < splitB[1]) {
-            return -1
-        } else if (splitA[1] > splitB[1]) {
-            return 1
-        } else {
-            return 0
-        }
-    }
 })
