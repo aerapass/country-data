@@ -1,10 +1,15 @@
 {
-  "name": "country-data",
-  "version": "0.0.31",
+  "name": "@aerapass/country-data",
+  "version": "0.1.0",
   "description": "Data about countries - like their ISO codes and currencies",
   "author": "Aerapass Ltd. <info@aerapass.com>",
   "license": "MIT",
-  "main": "index.js",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "files": [
+    "lib/**/*",
+    "data/**/*"
+  ],
   "keywords": [
     "data",
     "country"
@@ -53,5 +58,21 @@
     },
     "coverageDirectory": "../coverage",
     "testEnvironment": "node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aerapass/country-data.git"
+  },
+  "homepage": "https://github.com/aerapass/country-data#readme",
+  "bugs": {
+    "url": "https://github.com/aerapass/country-data/issues"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "release": {
+    "branches": [
+      "master"
+    ]
   }
 }
