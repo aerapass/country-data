@@ -15,7 +15,7 @@ Data about countries - like their ISO codes and currencies - with typings.
 npm install country-data
 ```
 
-## Example usage
+## Usage
 
 ```typescript
 import { countries, continents, currencies, regions } from '@aerapass/country-data'
