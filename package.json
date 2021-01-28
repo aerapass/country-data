@@ -37,7 +37,7 @@
     "canonical-json": "~0.0.4",
     "csv": "^5.3.2",
     "eslint": "^7.18.0",
-    "eslint-config-prettier": "^6.13.0",
+    "eslint-config-prettier": "^6.15.0",
     "eslint-plugin-prettier": "^3.1.4",
     "jest": "^26.6.0",
     "prettier": "^2.1.2",
