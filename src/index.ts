@@ -17,7 +17,7 @@ export interface Country {
     currencies: string[]
     emoji: string
     ioc: string
-    languages: string
+    languages: string[]
     name: string
     numeric: string
     status: 'assigned' | 'reserved' | 'user assigned' | 'deleted'
