@@ -29,7 +29,7 @@ console.log(countries.BE.name) // 'Belgium'
 console.log(countries.FRA.currencies) // ['EUR']
 
 // currencies are accessed by their code (uppercase)
-console.log(currencies.USD.name) // 'United States dollar'
+console.log(currencies.USD.name) // 'United States Dollar'
 
 // regions are accessed using a camel case name
 console.log(regions.europe.countries)
