@@ -392,6 +392,7 @@ regions.easternEurope = {
         'RU', // Russia
         'SK', // Slovakia
         'UA', // Ukraine
+        'XK', // Kosovo
     ],
 }
 
